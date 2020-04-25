@@ -1,0 +1,31 @@
+#Leningrad
+state={
+	id=10
+	name="STATE_10"
+	manpower = 730660
+	resources={
+		steel=2 # was: 3
+	}
+	state_category = town
+	history={
+		owner = SOV
+		victory_points = {
+			3152 5 
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 2
+			3152 = {
+				naval_base = 3
+				coastal_bunker = 1
+			}
+		}
+		add_core_of = SOV
+	}
+
+	provinces={
+		10801 10754 10755 10779 10809 5256 10831 8912 4546 8135 10766
+	}
+}
