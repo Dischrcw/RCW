@@ -5,3 +5,70 @@ music = {
 	file = "white-army-black-baron.ogg"
 	volume = 0.65
 }
+
+# White Army Music
+music = {
+	name = "March of Siberian Riflemen"
+	file = "march-of-siberian-riflemen.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Cossack Lullaby"
+	file = "cossack-lullaby.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "March of the Siberian Regiment"
+	file = "march-of-siberian-regiment.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Farewell of Slavianka"
+	file = "farewell-of-slavianka.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "On the Hills of Manchuria"
+	file = "on-the-hills-of-manchuria.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Do not be sad, Gentlemen Officers"
+	file = "do-not-be-sad-gentlemen-officers.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Waltz of the Junkers"
+	file = "waltz-of-the-junkers.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Countess"
+	file = "countess.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "White Guard"
+	file = "white-guard.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "They took the Russian Brigade"
+	file = "they-took-the-russian-brigade.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Sevastopol will Remain Russian"
+	file = "sevastopol-will-remain-russian.ogg"
+	volume = 0.65
+}
