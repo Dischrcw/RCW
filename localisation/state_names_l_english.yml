@@ -207,7 +207,7 @@
  STATE_206:0 "Kuz'minichi"
  STATE_207:0 "Bolkhov"
  STATE_208:0 "Orel"
- STATE_209:0 "Pskov"
+ STATE_209:1 "China"
  STATE_210:0 "Nevel"
  STATE_211:0 "Burgas"
  STATE_212:0 "Plovdiv"
