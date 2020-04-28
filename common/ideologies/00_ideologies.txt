@@ -1,9 +1,9 @@
 ideologies = {
-       Vangaurd socialism = {
+       vanguard_socialism = {
 		
 		types = {
 		
-			Bolshevism = {
+			vanguard_socialism = {
 			}
 			
 			leninism = {
@@ -20,7 +20,7 @@ ideologies = {
 		}
 		
 		dynamic_faction_names = {
-			"The_United_Font"
+			"The_United_Front"
 			"FACTION_NAME_COMMUNIST_2"
 			"FACTION_NAME_COMMUNIST_3"
 			"FACTION_NAME_COMMUNIST_4"
@@ -54,17 +54,18 @@ ideologies = {
 		faction_modifiers = {
 			
 		}
-Autocracy = {
+	}
+autocracy = {
 	
 		types = {
 		
-			Monarchism  = {
+			autocracy  = {
 			}
 			
 			oligarchism  = {
 			}
 
-			Anti_revloutianary = {
+			anti_revolutionary = {
 				can_be_randomly_selected = no # won't be assigned to randomly generated country leaders
 			}
 			
@@ -112,7 +113,8 @@ Autocracy = {
 		}
 
 		ai_neutral = No # 
-Anarchism = {
+	}
+anarchism = {
 	
 		types = {
 		
@@ -122,7 +124,7 @@ Anarchism = {
 			Anarcho_Capitilism  = {
 			}
 
-			anarchy = {
+			anarchism = {
 				can_be_randomly_selected = no # won't be assigned to randomly generated country leaders
 			}
 			
@@ -171,7 +173,8 @@ Anarchism = {
 		}
 
 		ai_neutral = no # 
-Nationalism = {
+	}
+nationalism = {
 	
 		types = {
 		
@@ -181,7 +184,7 @@ Nationalism = {
 			Monarcho_Nationalist = {
 			}
 			
-			Nationalism = {
+			nationalism = {
 			}
 			
 			Anti_Bolshevism = {
@@ -220,11 +223,11 @@ Nationalism = {
 
 		ai_fascist = yes # uses the fascist AI behaviour
 	}
-	democratic_Socialist = {
+	democratic_socialism = {
 	
 		types = {
 			
-			Soc_Dem = {
+			democratic_socialism = {
 			}
 		
 			liberal_Socialist = {
@@ -279,11 +282,11 @@ Nationalism = {
 		}
 		ai_democratic = yes # uses the democratic AI behaviour
 	}
-Liberlalism = {
+liberalism = {
 	
 		types = {
 			
-			Libertarian = {
+			liberalism = {
 			}
 		
 			Conservative_Libertarian = {
@@ -338,11 +341,11 @@ Liberlalism = {
 		}
 		ai_democratic = yes # uses the democratic AI behaviour
 	}
-	Conservatism = {
+	conservatism = {
 	
 		types = {
 		
-			Conservative  = {
+			conservatism  = {
 			}
 			
 			Anti_Bolshevic_Conservative  = {
@@ -394,3 +397,4 @@ Liberlalism = {
 		
 		faction_modifiers = {
 		}
+	}
