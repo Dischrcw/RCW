@@ -11,5 +11,5 @@ tags={
 version="0.01"
 picture="Thumbnail.png"
 supported_version="1.9.*"
-path="C:/Users/Utilisateur/Documents/Paradox Interactive/Hearts of Iron IV/mod/Russia_map"
+path="C:/Users/Utilisateur/Documents/Paradox Interactive/Hearts of Iron IV/mod/RCW-master"
 remote_file_id="2069043013"
