@@ -84,7 +84,7 @@ autocracy = {
 			"FACTION_NAME_NONALIGNED_5"
 		}
 		
-		color = { 225 225 225 }
+		color = { 180 180 180 }
 		
 		
 		war_impact_on_world_tension = 0.25		#no major danger
