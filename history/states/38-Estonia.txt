@@ -5,6 +5,9 @@ state={
 	provinces={
 		1942 2208 4450 4653 4755 6154 6354 6394 7442 
 	}
-	manpower=0
+	manpower=479800
 	buildings_max_level_factor=1.000
+	history = {
+		owner = EST
+		add_core_of = EST
 }
