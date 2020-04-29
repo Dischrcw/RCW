@@ -4,7 +4,7 @@ state={
 	provinces={
 		6666 8091 8108 8109 
 	}
-	manpower=0
+	manpower=911000
 	buildings_max_level_factor=1.000
 	history = {
 		owner = ENU
