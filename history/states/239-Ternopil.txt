@@ -1,0 +1,12 @@
+state={
+	id=239
+	name="STATE_239"
+	provinces={
+		3235 3424 6781 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history = {
+		owner = UKR
+		add_core_of = UKR
+}
