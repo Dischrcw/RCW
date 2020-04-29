@@ -4,7 +4,7 @@ state={
 	provinces={
 		2305 3621 4633 4999 5389 5603 6697 7384 7391 7392 
 	}
-	manpower=0
+	manpower=200000
 	buildings_max_level_factor=1.000
 	history = { 
 		owner = FIN
