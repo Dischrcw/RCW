@@ -30,3 +30,13 @@
  EST_vanguard_socialism_party_long:0 "Eestimaa Kommunistlik Partei"
  EST_anarchism_party:0 "Eestimaa Free Party"
  EST_democratic_socialism_party:0 "SPD-EST"
+ 
+ FIN_autocracy_party:0 "Russian Administration" #possibly
+ FIN_liberalism_party:0 "Vihrea liitto"
+ FIN_conservatism_party:0 "Kansallinen Kokoomus"
+ FIN_nationalism_party:0 "SNP"
+ FIN_nationalism_party_long:0 "Suomi National Party"
+ FIN_vanguard_socialism_party:0 "SKTL"
+ FIN_vanguard_socialism_party_long:0 "Suomen Kristillisen Tyovaen Liitto"
+ FIN_anarchism_party:0 "Suomi Free Party"
+ FIN_democratic_socialism_party:0 "SPD-FIN"
