@@ -1,2 +1,6 @@
 EST	= "countries/Estonia.txt"
 FIN = "countries/Finland.txt"
+UKR	= "countries/Ukraine.txt"
+SVU = "countries/Soviet_Ukraine.txt"
+MAK = "countries/Makhnovia"
+ENU = "countries/Entente_Ukraine.txt"
