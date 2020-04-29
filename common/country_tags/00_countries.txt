@@ -1,0 +1,2 @@
+EST	= "countries/Estonia.txt"
+FIN = "countries/Finland.txt"
