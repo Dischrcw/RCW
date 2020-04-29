@@ -78,11 +78,11 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Kost Levytsky"
+	name = "Nestor Makhno"
 	desc = ""
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
+	picture = "GFX/leaders/MAK/portrait_MAK_nestor_makhno.dds"
 	expire = "1953.3.1"
-	ideology = conservatism
+	ideology = anarchism
 	traits = {
 		
 	}
