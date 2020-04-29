@@ -9,3 +9,7 @@ FIN = {
 	color = rgb { 205 212 228 }
 	color_ui = rgb { 255 255 255 }
 }
+
+UKR = {
+	color = rgb { 59  94  69 }
+	color_ui = rgb { 59  94  69 }
