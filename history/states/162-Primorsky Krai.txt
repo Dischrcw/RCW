@@ -1,9 +1,21 @@
+
 state={
 	id=162
 	name="STATE_162"
 	provinces={
-		752 863 1240 1347 1890 1992 2342 2368 2553 2668 2864 2915 3499 3681 4052 4471 4642 4717 4783 4904 5157 5181 5285 6323 6726 6735 8553 8620 8660 8695 8715 8718 8726 8740 8752 8758 8799 8814 
+		752 1347 1992 2553 2915 3499 4642 4717 8553 8620 8660 
 	}
-	manpower=0
+	history={
+		owner = USS
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+		}
+	}
+		add_core_of = USS
+	
+	state_category = rural
+	manpower=19950
 	buildings_max_level_factor=1.000
 }
