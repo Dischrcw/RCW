@@ -78,7 +78,7 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Kost Levytsky"
+	name = "Placeholder"
 	desc = ""
 	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
 	expire = "1953.3.1"
@@ -88,21 +88,12 @@ create_country_leader = {
 	}
 }
 
-create_country_leader = {
-	name = "Nikita Sergeyevich Khrushchev"
-	desc = ""
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_4.dds"
-	expire = "1953.3.1"
-	ideology = vanguard_socialism
-	traits = {
-		
-	}
-}
+
 
 create_country_leader = {
-	name = "Stepan Bandera"
+	name = "Placeholder"
 	desc = ""
-	picture = "gfx/leaders/SOV/Portrait_Soviet_Generic_3.dds"
+	picture = "gfx/leaders/SOV/Portrait_Soviet_Generic_2.dds"
 	expire = "1953.3.1"
 	ideology = autocracy
 	traits = {
