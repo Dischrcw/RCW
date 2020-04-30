@@ -15,7 +15,6 @@ division_template = {
 		recon = { x = 0 y = 0 } 				# Recon bn had 16x L tanks, 45 ACs
 	}
 }
-}
 division_template = {
 	name = "Sotnya"				# Infantry Division	
 	division_names_group = SOV_INF_01
@@ -38,7 +37,7 @@ division_template = {
 		artillery = { x = 0 y = 2 }
 	}
 }
-}
+
 
 units = {
 	######## LAND OOB ########

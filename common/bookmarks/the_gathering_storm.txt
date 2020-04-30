@@ -26,7 +26,17 @@ bookmarks = {
 
 
 		# minors from DLC ####
-		
+		"USS"={
+			history = "EST_GATHERING_STORM_DESC"
+			ideology = authoritarian
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
 		
 
 		effect = {
