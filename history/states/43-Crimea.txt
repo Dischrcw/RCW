@@ -10,5 +10,8 @@ state={
 	history = {
 		owner = ENU
 		add_core_of = ENU
+		add_core_of = MAK
+		add_core_of = SVU
+		add_core_of = UKR
 	}
 }
