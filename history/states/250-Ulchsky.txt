@@ -4,6 +4,14 @@ state={
 	provinces={
 		160 1792 2153 3168 4247 5277 5569 6804 8308 
 	}
+	history={
+		owner = USS
+		buildings = {
+			infrastructure = 1
+		}
+	}
+		add_core_of = USS
+	state_category = rural
 	manpower=0
 	buildings_max_level_factor=1.000
 }

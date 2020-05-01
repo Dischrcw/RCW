@@ -4,6 +4,15 @@ state={
 	provinces={
 		509 1195 5144 8209 8264 8215
 	}
+	history={
+		owner = USS
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+		add_core_of = USS
+	state_category = town
 	manpower=0
 	buildings_max_level_factor=1.000
 }
