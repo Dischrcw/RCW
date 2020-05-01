@@ -1,6 +1,6 @@
 ﻿capital = 1347
-#Puppet of Amur, led by rapist and bandit. Widely disliked by the populace.
-oob = "USS_1919"
+#Puppet of All Russian Provisional Government, led by Oirat Mongol Nationalist and Bandit who hands out "Protocols of the Elders of Zion"
+oob = "BAI_1919"
 
 set_research_slots = 3
 
@@ -62,24 +62,24 @@ if = {
 
 set_popularities = {
 	autocracy = 20
-	vanguard_socialism = 30
+	vanguard_socialism = 15
 	anarchism = 3
-	nationalism = 20
-	democratic_socialism = 25
+	nationalism = 55
+	democratic_socialism = 5
 	liberalism = 1
 	conservatism = 1
 }
 
 set_politics = {
-	ruling_party = autocracy
+	ruling_party = nationalism
 	last_election = "1932.5.21"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Placeholder"
-	desc = ""
+	name = "Grigory Mikhalyovich Semyonov"
+	desc = "Described as a 'plain bandit,' Semyonov seeks to unite the Oirat people in a Great Mongolia. If you wanted a copy of the 'Protocols of the Elders of Zion,' he has been giving them out."
 	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
 	expire = "1953.3.1"
 	ideology = nationalism
@@ -91,7 +91,7 @@ create_country_leader = {
 
 
 create_country_leader = {
-	name = "Ivan Kalmykov"
+	name = "Placeholder"
 	desc = ""
 	picture = "gfx/leaders/SOV/Portrait_Soviet_Generic_2.dds"
 	expire = "1953.3.1"
@@ -178,7 +178,7 @@ create_country_leader = {
 }
 1939.1.1 = {
 	set_politics = {
-		ruling_party = autocracy
+		ruling_party = fascist
 		last_election = "1938.2.25"
 		election_frequency = 48
 		elections_allowed = no
