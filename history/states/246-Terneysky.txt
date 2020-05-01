@@ -1,20 +1,23 @@
+
 state={
 	id=246
 	name="STATE_246"
-	provinces={
-		863 1890 2668 4052 6726 6735 
-	}
+
 	history={
 		owner = USS
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1
 			industrial_complex = 2
+
 		}
+
 	}
-		add_core_of = USS
-	
-	state_category = rural
+
+	provinces={
+		863 1890 2668 4052 6726 6735 10997 
+	}
 	manpower=19950
 	buildings_max_level_factor=1.000
+	state_category=rural
 }
