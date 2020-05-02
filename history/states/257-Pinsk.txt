@@ -1,16 +1,17 @@
+
 state={
 	id=257
 	name="STATE_257"
-	
-	history = {
+
+	history={
 		owner = LBY
 		add_core_of = LBY
+
 	}
-	
+
 	provinces={
-		490 1868 2196 3589 4548 4593 4699 5494 6504 7711 7792 10952 
+		490 2607 3589 4548 4593 4699 5494 7792 7801 7808 10952 11038 11041 11042 
 	}
-	
 	manpower=0
 	buildings_max_level_factor=1.000
 }

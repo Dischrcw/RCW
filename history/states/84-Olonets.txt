@@ -2,20 +2,20 @@
 state={
 	id=84
 	name="STATE_84"
-	provinces={
-		2064 2456 2927 3764 4235 5741 6638 6782 7472 7489 7521 
-	}
-	manpower=89000
-	buildings_max_level_factor=1.000
+
 	history={
 		owner = PNR
 		add_core_of = PNR
-		
-		
 		buildings = {
 			infrastructure = 2
-			
+
 		}
-		
+
 	}
+
+	provinces={
+		2064 2456 2927 3764 4235 5741 6638 6782 7472 7489 7521 10886 10887 
+	}
+	manpower=89000
+	buildings_max_level_factor=1.000
 }

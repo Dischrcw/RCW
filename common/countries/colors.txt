@@ -14,6 +14,7 @@ UKR = {
 	color = rgb { 59  94  69 }
 	color_ui = rgb { 59  94  69 }
 }
+
 TRC = {
 	color = rgb { 215 215 215 }
 	color_ui = rgb { 215 215 215 }
@@ -37,6 +38,8 @@ ENU = {
 PNR = {
 	color = rgb { 0  0  200 }
 	color_ui = rgb {0  0  200 }
+}	
+
 LBY = {
 	color = rgb { 178 34 52 }
 	color_ui = rgb { 178 34 52 }

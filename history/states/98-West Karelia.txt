@@ -2,12 +2,16 @@
 state={
 	id=98
 	name="STATE_98"
+
+	history={
+		owner = FIN
+		add_core_of = FIN
+
+	}
+
 	provinces={
-		174 189 2332 2601 2837 3094 4223 5866 6124 7274 7318 7348 7402 
+		174 189 2332 2601 2837 3094 4223 5866 6124 7274 7318 7348 7402 10912 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
-	history = { 
-		owner = FIN
-		add_core_of = FIN
 }
