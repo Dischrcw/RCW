@@ -4,9 +4,17 @@ state={
 	provinces={
 		362 895 1239 1296 2598 3210 3302 3893 6643 7378 7396 7436 
 	}
-	manpower=0
+	manpower=110900
 	buildings_max_level_factor=1.000
-	history = { 
+	history={
 		owner = PNR
 		add_core_of = PNR
+		
+		
+		buildings = {
+			infrastructure = 2
+			
+		}
+		
+	}
 }
