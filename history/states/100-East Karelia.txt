@@ -1,20 +1,21 @@
+
 state={
 	id=100
 	name="STATE_100"
-	provinces={
-		362 895 1239 1296 2598 3210 3302 3893 6643 7378 7396 7436 
-	}
-	manpower=110900
-	buildings_max_level_factor=1.000
+
 	history={
 		owner = PNR
 		add_core_of = PNR
-		
-		
 		buildings = {
 			infrastructure = 2
-			
+
 		}
-		
+
 	}
+
+	provinces={
+		362 895 1239 1296 2598 3210 3302 3893 6643 7378 7396 7436 10918 10919 11046 11047 11048 11049 11050 
+	}
+	manpower=110900
+	buildings_max_level_factor=1.000
 }

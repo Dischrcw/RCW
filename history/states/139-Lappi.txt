@@ -2,12 +2,16 @@
 state={
 	id=139
 	name="STATE_139"
+
+	history={
+		owner = FIN
+		add_core_of = FIN
+
+	}
+
 	provinces={
-		767 994 1699 2312 2537 2935 3125 3136 3528 4098 4159 4400 4615 6937 7014 7043 
+		767 994 1699 2312 2537 2935 3125 3136 3528 4098 4159 4400 4615 6937 7014 7043 10896 10897 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
-	history = { 
-		owner = FIN
-		add_core_of = FIN
 }
