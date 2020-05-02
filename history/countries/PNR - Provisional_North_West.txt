@@ -2,14 +2,6 @@
 
 #oob = "FIN_1919"
 
-if = { 
-	limit = { has_dlc = "Man the Guns" }
-		set_naval_oob = "FIN_1936_naval_mtg"
-	else = {
-		set_naval_oob = "FIN_1936_naval_legacy"
-	}
-}
-
 set_research_slots = 3
 
 add_ideas = {
@@ -137,17 +129,17 @@ set_popularities = {
 	}
 }
 
-#The rest is taken out 
-#create_country_leader = {
-#	name = "Risto Heikki Ryti"
-#	desc = "POLITICS_RISTO_HEIKKI_RYT_DESC"
-#	picture = "Portrait_Finland_Risto_Heikki_Ryti.dds"
-#	expire = "1965.1.1"
 #	ideology = liberalism
-#	traits = {
-#		#
-#	}
-#}
+create_country_leader = {
+	name = "Nikolai Vasilyevich Tchaikovsky"
+	desc = "POLITICS_NIKOLAI_VASILYVICH_TCHAIKOVSKY_DESC"
+	picture = "portrait_pnr_nikolai_tchaikovsky.dds"
+	expire = "1965.1.1"
+	ideology = liberalism
+	traits = {
+		#
+	}
+}
 
 #create_country_leader = {
 #	name = "Aimo Aaltonen"
