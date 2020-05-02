@@ -78,11 +78,11 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Kost Levytsky"
+	name = "Henri Berthelot"
 	desc = ""
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
+	picture = "gfx/leaders/ENU/portrait_ENU_henri_berthelot.dds"
 	expire = "1953.3.1"
-	ideology = conservatism
+	ideology = liberalism
 	traits = {
 		
 	}
