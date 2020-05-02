@@ -1,0 +1,18 @@
+state={
+	id=264
+	name="STATE_264"
+	provinces={
+		1349 1582 1594 2470 6433 8395 8422 11017 11019 11020 
+	}
+	history={
+		owner = AMU
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+	}
+		add_core_of = AMU
+	state_category = rural
+	manpower=0
+	buildings_max_level_factor=1.000
+}

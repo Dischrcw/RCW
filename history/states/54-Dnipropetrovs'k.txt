@@ -4,7 +4,7 @@ state={
 	provinces={
 		5 2295 5630 6810 8130 8138 
 	}
-	manpower=0
+	manpower=609185
 	buildings_max_level_factor=1.000
 	history = {
 		owner = MAK

@@ -1,0 +1,96 @@
+﻿capital = 270
+
+oob = "TRC_1919"
+
+
+add_ideas = {
+	extensive_conscription
+	war_economy
+	TRC_malleson_mission
+}
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	gw_artillery = 1
+	tech_support = 1
+	early_bomber = 1
+}
+
+
+set_convoys = 5
+
+set_politics = {	
+	ruling_party = nationalism
+	last_election = "1919.1.1"
+	election_frequency = 24
+	elections_allowed = no
+}
+
+set_popularities = {
+   nationalism = 74
+   democratic_socialism = 5
+   conservatism = 9
+   autocracy = 12
+}
+
+create_country_leader = {
+	name = "Oraz Sirdar"
+	desc = ""
+	picture = "TRC_Sirdar.tga"
+	expire = "1965.1.1"
+	ideology = Anti_Bolshevism
+	traits = {
+		#
+	}
+}
+create_field_marshal = {
+	name = "Oraz Sirdar"
+	picture = "TRC_Sirdar.tga"
+	traits = { }
+	skill = 2
+	attack_skill = 1
+    defense_skill = 3
+    planning_skill = 2
+    logistics_skill = 1
+}
+create_corps_commander = {
+	name = "Wilfrid Malleson"
+	picture = "TRC_Malleson.tga"
+	traits = { }
+	skill = 2 
+	attack_skill = 3
+	defense_skill = 2
+	planning_skill = 3
+	logistics_skill = 2
+}
+create_corps_commander = {
+	name = "Ippolit Savitsky"
+	picture = "TRC_Savitsky.tga"
+	traits = { }
+	skill = 1 
+	attack_skill = 2
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+}
+create_corps_commander = {
+	name = "Sergey Tseil"
+	picture = "TRC_Tseil.tga"
+	traits = { }
+	skill = 2
+	attack_skill = 2
+	defense_skill = 2
+	planning_skill = 2
+	logistics_skill = 1
+}
+create_corps_commander = {
+	name = "Charles Howard Ellis"
+	picture = "TRC_Ellis.tga"
+	traits = { }
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+}
+

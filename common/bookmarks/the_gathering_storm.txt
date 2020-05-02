@@ -26,7 +26,7 @@ bookmarks = {
 
 
 		# minors from DLC ####
-		
+
 		
 
 		effect = {

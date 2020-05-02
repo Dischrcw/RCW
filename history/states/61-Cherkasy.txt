@@ -4,7 +4,7 @@ state={
 	provinces={
 		1637 4407 6502 6723 8040 8087 8088 
 	}
-	manpower=0
+	manpower=704000
 	buildings_max_level_factor=1.000
 	history = {
 		owner = SVU

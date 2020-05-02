@@ -1,0 +1,21 @@
+state={
+	id=272
+	name="STATE_272"
+	provinces={
+		435 518 1008 1156 1259 1514 1775 2963 2973 3243 3356 3753 4582 4659 5001 5546 5578 5693 5818 5975 6237 6316 6498 6718 6763 8675 8784 8802 8806 8809 8820 8821 8832 8841 8880 
+	}
+	history={
+		owner = TRC
+		add_core_of = TRC
+		
+		
+		buildings = {
+			infrastructure = 2
+			
+		}
+		
+	}
+	manpower=12098
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

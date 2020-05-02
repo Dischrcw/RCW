@@ -1,0 +1,24 @@
+state={
+	id=259
+	name="STATE_259"
+	provinces={
+		152 300 387 614 853 1066 1228 1289 2070 2193 3096 3277 3417 3768 4371 4726 4910 4976 5192 5200 5362 5526 5776 6037 6290 6650 8567 8580 8594 8603 8626 8683 8691 8700 8735 8760 8805 
+	}
+	history={
+		owner = TRC
+		add_core_of = TRC
+		victory_points = {
+			300 5 
+		}
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			
+		}
+		
+	}
+	state_category = town
+	manpower=71434
+	buildings_max_level_factor=1.000
+}

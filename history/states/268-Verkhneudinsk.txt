@@ -1,0 +1,18 @@
+state={
+	id=268
+	name="STATE_268"
+	provinces={
+		337 663 2155 2745 5463 5564 6381 6446 6640 6704 8517 8572 8585 10976 10977 10978 10979 10980 10982 10984 10985 10986 10987 10988 
+	}
+	history={
+		owner = BAI
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+		add_core_of = BAI
+	state_category = rural
+	manpower=0
+	buildings_max_level_factor=1.000
+}

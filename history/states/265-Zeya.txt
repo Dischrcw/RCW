@@ -1,0 +1,17 @@
+state={
+	id=265
+	name="STATE_265"
+	provinces={
+		255 339 1135 2958 4531 5278 5311 6049 6115 6158 8242 8290 8335 
+	}
+	history={
+		owner = AMU
+		buildings = {
+			infrastructure = 1
+		}
+	}
+		add_core_of = AMU
+	state_category = rural
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -4,9 +4,12 @@ state={
 	provinces={
 		2037 2581 3034 5017 8199 8214 
 	}
-	manpower=0
+	manpower=232000
 	buildings_max_level_factor=1.000
 	history = {
 		owner = ENU
+		add_core_of = MAK
+		add_core_of = SVU
+		add_core_of = UKR
 	}
 }

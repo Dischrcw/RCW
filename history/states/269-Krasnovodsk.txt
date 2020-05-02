@@ -1,0 +1,24 @@
+state={
+	id=269
+	name="STATE_269"
+	provinces={
+		491 596 872 992 1163 1623 2169 2603 2877 3038 3262 3398 3612 3650 4207 4262 4343 4557 4931 5035 5052 5132 5885 8739 8747 8817 8826 8852 8862 
+	}
+	manpower=52309
+	state_category = town
+	history={
+		owner = TRC
+		add_core_of = TRC
+		victory_points = {
+			3612 10
+		}
+		
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		
+	}
+	buildings_max_level_factor=1.000
+}
