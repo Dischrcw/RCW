@@ -1,8 +1,17 @@
+
 state={
 	id=33
 	name="STATE_33"
+
+	history={
+		owner = POL
+		add_core_of = POL
+		controller = LBY
+
+	}
+
 	provinces={
-		2660 3030 7635 
+		3030 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

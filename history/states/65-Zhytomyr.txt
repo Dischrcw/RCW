@@ -1,12 +1,17 @@
+
 state={
 	id=65
 	name="STATE_65"
+
+	history={
+		owner = UKR
+		add_core_of = UKR
+
+	}
+
 	provinces={
-		123 2936 4442 5045 7893 
+		123 2936 3668 4442 5045 7893 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
-	history = {
-		owner = UKR
-		add_core_of = UKR
 }

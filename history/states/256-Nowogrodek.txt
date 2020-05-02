@@ -6,11 +6,18 @@ state={
 	history={
 		owner = LBY
 		add_core_of = LBY
+		
+		POL = {
+			set_province_controller = 2196
+			set_province_controller = 10955
+			set_province_controller = 7705
+			set_province_controller = 7688
+		}
 
 	}
 
 	provinces={
-		1779 1868 2139 2196 3071 3789 4156 5240 6504 7688 7703 7705 7711 10955 
+		1779 1868 2196 3071 3789 4156 5240 6504 7688 7703 7705 7711 10955 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

@@ -1,15 +1,19 @@
+
 state={
 	id=45
 	name="STATE_45"
-	provinces={
-		850 4562 8181 8182 8197 8198 
-	}
-	manpower=225000
-	buildings_max_level_factor=1.000
-	history = {
+
+	history={
 		owner = ENU
 		add_core_of = MAK
 		add_core_of = SVU
 		add_core_of = UKR
+
 	}
+
+	provinces={
+		423 850 4562 8181 8182 8197 8198 
+	}
+	manpower=225000
+	buildings_max_level_factor=1.000
 }

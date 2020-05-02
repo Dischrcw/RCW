@@ -7,6 +7,14 @@ state={
 		owner = ZUN
 		add_core_of = ZUN
 		add_core_of = UKR
+		
+		POL = {
+			set_province_controller = 4464
+			set_province_controller = 11044 
+			set_province_controller = 3328
+			set_province_controller = 11037
+			set_province_controller = 11039
+		}
 
 	}
 

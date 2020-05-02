@@ -6,6 +6,12 @@ state={
 	history={
 		owner = UKR
 		add_core_of = UKR
+		
+		SVU = {
+			set_province_controller = 6017
+			set_province_controller = 11030
+			set_province_controller = 11029
+		}
 
 	}
 

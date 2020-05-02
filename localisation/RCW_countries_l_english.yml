@@ -76,3 +76,10 @@
  ZUN_conservatism:0 "West Ukrainian People's Republic"
  ZUN_conservatism_DEF:0 "The West Ukrainian People's Republic"
  ZUN_conservatism_ADJ:0 "West Ukrainian"
+ 
+ POL:0 "Poland"
+ POL_DEF:0 "Poland"
+ POL_ADJ:0 "Polish"
+ POL_conservatism:0 "Second Polish Republic"
+ POL_conservatism_DEF:0 "The Second Polish Republic"
+ POL_conservatism_ADJ:0 "Polish"

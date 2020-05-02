@@ -6,7 +6,14 @@ state={
 	history={
 		owner = UKR
 		add_core_of = UKR
-
+		
+		POL = {
+			set_province_controller = 2588
+			set_province_controller = 11045 
+			set_province_controller = 6031
+			set_province_controller = 4771
+			set_province_controller = 11043
+		}
 	}
 
 	provinces={

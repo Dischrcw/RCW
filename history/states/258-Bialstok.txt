@@ -2,8 +2,21 @@
 state={
 	id=258
 	name="STATE_258"
+
+	history={
+		owner = POL
+		add_core_of = POL
+		
+		LBY = {
+			set_province_controller = 2139
+			set_province_controller = 7653
+			set_province_controller = 7635
+		}
+
+	}
+
 	provinces={
-		697 958 1563 3544 4077 4564 4589 5542 5599 6235 7653 7655 7668 7691 7737 7754 7759 
+		697 2139 2660 4589 5542 5599 7635 7653 7655 7668 7691 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

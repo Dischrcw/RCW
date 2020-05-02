@@ -6,6 +6,19 @@ state={
 	history={
 		owner = LBY
 		add_core_of = LBY
+		
+		POL = {
+			set_province_controller = 3589
+			set_province_controller = 4593
+			set_province_controller = 4548
+		}
+		UKR = {
+			set_province_controller = 7801
+			set_province_controller = 4699
+			set_province_controller = 7808
+			set_province_controller = 10952
+			set_province_controller = 2607
+		}
 
 	}
 
