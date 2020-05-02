@@ -129,7 +129,6 @@ set_popularities = {
 	}
 }
 
-#	ideology = liberalism
 create_country_leader = {
 	name = "Nikolai Vasilyevich Tchaikovsky"
 	desc = "POLITICS_NIKOLAI_VASILYVICH_TCHAIKOVSKY_DESC"
