@@ -1,0 +1,15 @@
+spriteTypes = {	
+
+
+
+	
+
+	### RCW Ideas from Here on
+
+	spriteType = {
+		name = "GFX_idea_TRC_malleson_mission"   ###GFX_idea_followed by name of idea
+		texturefile = "gfx/interface/ideas/british_advisors.dds"
+	}		
+	
+	
+}

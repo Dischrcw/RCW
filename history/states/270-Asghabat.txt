@@ -1,0 +1,30 @@
+
+state={
+	id=270
+	name="STATE_270"
+
+	history={
+	owner = TRC
+		add_core_of = TRC
+		victory_points = {
+			3183 10 
+		}
+		victory_points = {
+			4880 5 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+
+		}
+
+	}
+
+	provinces={
+		633 1141 1487 1579 2117 3173 3183 3374 3879 3963 4109 4880 5620 5876 6682 6789 8896 8918 8932 8933 8961 9002 
+	}
+	manpower=131039
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}
