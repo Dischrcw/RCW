@@ -121,5 +121,16 @@ create_country_leader = {
 #	}
 #}
 
+create_field_marshal = {
+	name = "Nestor Makhno"
+	picture = "portrait_MAK_nestor_makhno.dds"
+	traits = { cavalry_officer brilliant_strategist inspirational_leader guerilla_fighter }
+	skill = 5
 
+	
+	attack_skill = 5
+	defense_skill = 2
+	planning_skill = 4
+	logistics_skill = 3
+}
 
