@@ -1,0 +1,47 @@
+﻿capital = 231
+
+oob = "KHI_1919"
+
+
+add_ideas = {
+	extensive_conscription
+	partial_mobilisation
+	
+}
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	gw_artillery = 1
+	tech_support = 1
+	
+}
+
+
+set_convoys = 0
+
+set_politics = {	
+	ruling_party = autocracy
+	last_election = "1919.1.1"
+	election_frequency = 24
+	elections_allowed = no
+}
+
+set_popularities = {
+   autocracy= 71
+   democratic_socialism = 4
+   vanguard_socialism = 15
+   nationalism = 10
+}
+
+create_country_leader = {
+	name = "Sayid Abdullah"
+	desc = ""
+	picture = "KHI_Khan.tga"
+	expire = "1965.1.1"
+	ideology = oligarchism
+	traits = {
+		#
+	}
+}
+
+

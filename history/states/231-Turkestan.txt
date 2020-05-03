@@ -3,8 +3,23 @@ state={
 	id=231
 	name="STATE_231"
 	provinces={
-		88 116 162 444 552 1018 1164 1451 1632 1693 1826 1829 1873 2275 2638 2942 3755 4481 4567 4833 4901 4963 5080 5393 5720 5923 6068 6131 6552 6582 6676 8785 8790 8808 8812 8848 8871 8883 8894 8901 8951 
+		88 116 444 552 1164 1451 1693 1826 1873 2275 2638 2942 3755 4481 4567 4833 4901 4963 5080 5393 5720 5923 6068 6131 6552 6582 6676 8785 8790 8808 8812 8848 8871 8883 8894 8901 
 	}
-	manpower=0
+	state_category = town
+	history={
+		owner = KHI
+		add_core_of = KHI
+		victory_points = {
+			
+		}
+		
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		
+	}
+	manpower=552300
 	buildings_max_level_factor=1.000
 }
