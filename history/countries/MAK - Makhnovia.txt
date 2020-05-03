@@ -134,3 +134,17 @@ create_field_marshal = {
 	logistics_skill = 3
 }
 
+create_corps_commander = {
+	name = "Fedir Shchus"
+	picture = "portrait_MAK_fedir_Shchus.dds"
+	traits = { trait_reckless ambusher naval_liason }
+	skill = 3
+
+	
+	attack_skill = 4
+	defense_skill = 2
+	planning_skill = 1
+	logistics_skill = 2
+}
+
+
