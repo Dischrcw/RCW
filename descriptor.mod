@@ -37,5 +37,5 @@ tags={
 version="0.01"
 picture="Thumbnail.png"
 supported_version="1.9.*"
-path="mod/RCW"
+path="C:/Users/Utilisateur/Documents/Paradox Interactive/Hearts of Iron IV/mod/RCW"
 remote_file_id="2069043013"
