@@ -1,0 +1,10 @@
+#Biggest city is Neryungri
+state={
+	id=286
+	name="STATE_286"
+	provinces={
+		71 314 703 970 1336 1658 1947 2495 2560 2578 2799 3002 3070 3199 3562 3645 4355 4367 4834 5007 5454 5529 5863 5914 6622 8288 8318 11025 11026 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

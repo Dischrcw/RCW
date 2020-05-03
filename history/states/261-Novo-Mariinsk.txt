@@ -4,6 +4,16 @@ state={
 	provinces={
 		286 440 617 888 1149 1365 1757 1883 1952 2409 3343 4804 4813 5491 5959 6178 6413 6880 6895 6928 6939 6945 6962 6972 
 	}
+	history={
+		owner = NMA
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 6
+			arms_factory = 2
+		}
+	}
+		add_core_of = NMA
+	state_category = town
 	manpower=0
 	buildings_max_level_factor=1.000
 }
