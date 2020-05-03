@@ -1,4 +1,4 @@
-﻿capital = 1347
+﻿capital = 5564
 #Puppet of All Russian Provisional Government, led by Oirat Mongol Nationalist and Bandit who hands out "Protocols of the Elders of Zion"
 oob = "BAI_1919"
 

@@ -1,6 +1,6 @@
-capital = 11013
-#Ruled by Revolutionary Socialists purged from Kolchak's government. "We have just established the Soviet power and have come to solve the problem with you. Are you ready?" - The Representative of the Chita Cossack veterans upon returning from WW1
-oob = "AMU_1919"
+capital = 1149
+#The Merchants of Novo-Mariinsk have restored their own authority over the rebellious Soviet. Later called Anadyr.
+oob = "NMA_1919"
 
 set_research_slots = 3
 
@@ -61,28 +61,28 @@ if = {
 }
 
 set_popularities = {
-	autocracy = 3
-	vanguard_socialism = 20
-	anarchism = 2
-	nationalism = 10
-	democratic_socialism = 25
+	autocracy = 20
+	vanguard_socialism = 30
+	anarchism = 3
+	nationalism = 1
+	democratic_socialism = 10
 	liberalism = 20
-	conservatism = 20
+	conservatism = 16
 }
 
 set_politics = {
-	ruling_party = democratic_socialism
+	ruling_party = liberalism
 	last_election = "1932.5.21"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Alexander Alekseevsky"
+	name = "Placeholder"
 	desc = ""
 	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
 	expire = "1953.3.1"
-	ideology = democratic_socialism
+	ideology = nationalism
 	traits = {
 		
 	}
@@ -90,7 +90,16 @@ create_country_leader = {
 
 
 
-
+create_country_leader = {
+	name = "Merchants of Novo-Mariinsk"
+	desc = ""
+	picture = "gfx/leaders/SOV/Portrait_Soviet_Generic_2.dds"
+	expire = "1953.3.1"
+	ideology = liberalism
+	traits = {
+		
+	}
+}
 
 1939.1.1 = {
 
@@ -107,7 +116,7 @@ create_country_leader = {
 	complete_national_focus = construction_effort
 	complete_national_focus = production_effort
 	
-	oob = "USS_1919"
+	oob = "NMA_1919"
 	if = {
 		limit = { has_dlc = "Man the Guns" }
 			set_naval_oob = "EST_1939_naval_mtg"
@@ -169,9 +178,10 @@ create_country_leader = {
 }
 1939.1.1 = {
 	set_politics = {
-		ruling_party = autocracy
+		ruling_party = liberalism
 		last_election = "1938.2.25"
 		election_frequency = 48
 		elections_allowed = no
 	}
 }
+
