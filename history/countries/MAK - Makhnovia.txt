@@ -147,4 +147,17 @@ create_corps_commander = {
 	logistics_skill = 2
 }
 
+create_corps_commander = {
+	name = "Viktor Belash"
+	picture = "portrait_MAK_viktor_belash.dds"
+	traits = { politically_connected trait_reckless }
+	skill = 2
+
+	
+	attack_skill = 1
+	defense_skill = 2
+	planning_skill = 3
+	logistics_skill = 1
+}
+
 
