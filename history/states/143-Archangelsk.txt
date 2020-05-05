@@ -9,10 +9,13 @@ state={
 	history={
 		owner = PNR
 		add_core_of = PNR
+		victory_points = {
+			7499 10 
+		}
 		
 		
 		buildings = {
-			infrastructure = 2
+			infrastructure = 3
 			
 		}
 		
