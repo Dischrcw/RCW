@@ -5,6 +5,9 @@ state={
 		246 629 791 857 1046 1710 4250 4560 5648 8338 8404 8437 11015 11016 11018 11021 11022 
 	}
 	history={
+		victory_points = {
+			11021 1
+		}
 		owner = BAI
 		buildings = {
 			infrastructure = 1
