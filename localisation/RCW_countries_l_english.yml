@@ -105,3 +105,10 @@
  POL_conservatism:0 "Second Polish Republic"
  POL_conservatism_DEF:0 "The Second Polish Republic"
  POL_conservatism_ADJ:0 "Polish"
+ 
+ PAG:0 "Provisional All-Russian Government"
+ PAG_DEF:0 "The Provisional All-Russian Government"
+ PAG_ADJ:0 "Russian"
+ PAG_conservatism:0 "Kolchak's Government"
+ PAG_conservatism_DEF:0 "The Provisional Government under Kolchak"
+ PAG_conservatism_ADJ:0 "Russian"
