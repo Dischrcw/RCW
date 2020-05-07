@@ -3,6 +3,14 @@ capital = 2491
 oob = "PAG_1919"
 
 set_research_slots = 3
+set_stability = 0.3
+set_war_support = 0.3
+
+create_faction = White_Army
+add_to_faction = PAG
+add_to_faction = BAI
+add_to_faction = USS
+
 
 # Starting tech
 set_technology = {
