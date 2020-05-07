@@ -4,6 +4,17 @@ state={
 	provinces={
 		1029 1679 4326 5825 8483 
 	}
+	history={
+		owner = PAG
+		buildings = {
+			infrastructure = 6
+			arms_factory = 1
+			industrial_complex = 1
+
+		}
+	}
+		add_core_of = PAG
+	state_category = city
 	manpower=0
 	buildings_max_level_factor=1.000
 }

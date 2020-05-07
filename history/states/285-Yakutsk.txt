@@ -3,7 +3,17 @@ state={
 	name="STATE_285"
 	provinces={
 		148 287 682 816 879 917 1037 1188 1230 1545 2215 2341 3109 3222 3312 3318 3345 3698 4143 4420 5492 5692 6110 6457 6628 7900 7915 7918 7948 7981 8051 
+	}	history={
+		owner = PAG
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 1
+
+		}
 	}
+		add_core_of = PAG
+	state_category = town
 	manpower=0
 	buildings_max_level_factor=1.000
 }

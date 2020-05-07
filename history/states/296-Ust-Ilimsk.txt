@@ -5,6 +5,16 @@ state={
 	provinces={
 		270 403 574 865 1080 1096 1815 2013 2016 2033 2214 2658 2728 2821 3086 3339 3969 4147 4170 4541 4859 5566 8313 8409 8486 8492 
 	}
+	history={
+		owner = PAG
+		buildings = {
+			infrastructure = 4
+
+
+		}
+	}
+		add_core_of = PAG
+	state_category = rural
 	manpower=0
 	buildings_max_level_factor=1.000
 }
