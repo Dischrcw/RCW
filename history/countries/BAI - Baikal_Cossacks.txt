@@ -4,6 +4,25 @@ oob = "BAI_1919"
 
 set_research_slots = 3
 
+
+set_stability = 0.4
+set_war_support = 0.8
+
+#Restoration of Order in Amur
+if = {
+	limit = {
+		has_start_date < 1936.01.02
+	}
+
+	declare_war_on = {
+		target = AMU
+		type = annex_everything
+	}
+	give_guarantee = ALB
+}
+
+
+
 # Starting tech
 set_technology = {
 	infantry_weapons = 1
@@ -64,8 +83,8 @@ set_popularities = {
 	autocracy = 20
 	vanguard_socialism = 15
 	anarchism = 3
-	nationalism = 55
-	democratic_socialism = 5
+	nationalism = 20
+	democratic_socialism = 40
 	liberalism = 1
 	conservatism = 1
 }
