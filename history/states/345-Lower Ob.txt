@@ -1,0 +1,19 @@
+
+state={
+	id=345
+	name="STATE_345"
+	provinces={
+		45 63 109 243 388 455 604 654 908 1012 1044 1187 1295 2388 2400 2493 2747 3057 3626 3787 4053 4056 4240 4278 4351 4378 5333 5451 5939 6216 6268 7744 7778 7899 7984 8011 8020 
+	}
+	history={
+		owner = PAG
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+		add_core_of = PAG
+	state_category = rural
+	manpower=0
+	buildings_max_level_factor=1.000
+}

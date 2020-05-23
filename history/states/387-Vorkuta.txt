@@ -1,12 +1,11 @@
-
 state={
-	id=227
-	name="STATE_227"
+	id=387
+	name="STATE_387"
 	provinces={
-		197 322 803 1420 1513 3056 3778 3996 4295 5174 6604 7963 7990 8000 8033 8146 
+		1016 1287 1501 1517 2182 3283 3364 3551 3781 
 	}
 	history={
-		owner = PAG
+		owner = PNR
 		buildings = {
 			infrastructure = 1
 

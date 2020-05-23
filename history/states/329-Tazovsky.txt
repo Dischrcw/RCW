@@ -1,0 +1,18 @@
+state={
+	id=329
+	name="STATE_329"
+	provinces={
+		276 738 1182 1267 1281 1305 1505 1869 2360 2526 2895 3019 3541 3742 3798 3868 3907 4169 4274 4493 4544 4954 5133 5350 5989 6307 6332 6342 6392 6634 7278 7311 7352 7433 7439 7451 7551 7564 7580 7589 7617 7647 7708 7760 9313 
+	}
+	history={
+		owner = PAG
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+		add_core_of = PAG
+	state_category = rural
+	manpower=0
+	buildings_max_level_factor=1.000
+}

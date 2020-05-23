@@ -5,6 +5,16 @@ state={
 	provinces={
 		81 299 488 566 808 814 843 1005 1268 1573 1758 1970 2223 2561 2671 2786 2798 3422 4360 4595 5913 6517 6753 6765 6885 7047 7067 7111 
 	}
+	history={
+		owner = CHU
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+		add_core_of = CHU
+		add_core_of = PAG
+	state_category = rural
 	manpower=0
 	buildings_max_level_factor=1.000
 }

@@ -2,19 +2,22 @@
 state={
 	id=228
 	name="STATE_228"
-	provinces={
-		3 20 602 1356 2491 5605 8394 8405 8417 8423 8431 
-	}
+
 	history={
 		owner = PAG
 		buildings = {
 			infrastructure = 6
 			arms_factory = 3
 			industrial_complex = 3
+
 		}
+
 	}
-		add_core_of = PAG
-	state_category=city
+
+	provinces={
+		3 20 369 602 1356 2491 3592 5605 8394 8405 8417 8423 8431 369 3592
+	}
 	manpower=0
 	buildings_max_level_factor=1.000
+	state_category=city
 }
