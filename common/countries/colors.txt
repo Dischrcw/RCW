@@ -58,3 +58,11 @@ KHI  = {
 	color = rgb { 19 86 83  }
 	color_ui = rgb { 19 86 83 }
 }
+OKH = {
+	color = rgb { 200 75 15 }
+	color_ui = rgb { 200 75 15 }
+}
+CHU = {
+	color = rgb { 200 15 15 }
+	color_ui = rgb { 200 15 15 }
+}
