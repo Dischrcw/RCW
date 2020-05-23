@@ -112,3 +112,17 @@
  PAG_conservatism:0 "Kolchak's Government"
  PAG_conservatism_DEF:0 "The Provisional Government under Kolchak"
  PAG_conservatism_ADJ:0 "Russian"
+ 
+ OKH:0 "Okhotsk"
+ OKH_DEF:0 "City of Okhotsk"
+ OKH_ADJ:0 "Okhotsk"
+ OKH_vanguard_socialism:0 "Okhotsk Revolutionary Committee"
+ OKH_vanguard_socialism_DEF:0 "The Okhotsk Revolutionary Committee"
+ OKH_vanguard_socialism_ADJ:0 "Revolutionary Okhotsk"
+ 
+ CHU:0 "Chukotka"
+ CHU_DEF:0 "Chukotka"
+ CHU_ADJ:0 "Chukchi"
+ CHU_vanguard_socialism:0 "Chukotka Revolutionary Committee"
+ CHU_vanguard_socialism_DEF:0 "The Chukotka Revolutionary Committee"
+ CHU_vanguard_socialism_ADJ:0 "Revolutionary Chukchi"
