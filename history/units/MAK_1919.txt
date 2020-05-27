@@ -22,8 +22,8 @@ units = {
 		location = 6379
 		division_template = "Chornapikhota"
 		force_equipment_variants = { infantry_equipment_0 = { owner = "MAK" } }
-		start_experience_factor = .6
-		start_equipment_factor = .95
+		start_experience_factor = 0.6
+		start_equipment_factor = 0.95
 
 	}
 	division = { # "Chornapikhota"
@@ -51,16 +51,3 @@ units = {
 		start_equipment_factor = 0.95
 
 	}
-
-### Starting Production ###
-instant_effect = {
-	add_equipment_production = {
-		equipment = {
-			type = infantry_equipment_0
-			creator = "MAK"
-		}
-		requested_factories = 1
-		progress = 0.88
-		efficiency = 100
-	}
-}
