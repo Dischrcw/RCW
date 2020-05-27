@@ -4,6 +4,18 @@ state={
 	provinces={
 		195 771 1126 1214 1540 1601 1684 2063 2473 2647 3149 3195 3349 3375 4758 5991 6033 8688 8764 8839 8846 
 	}
+	history={
+		owner = ANH
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+		add_core_of = ANH
+		add_core_of = FEN
+		add_core_of = ZHI
+		add_core_of = PRC
+	state_category = rural
 	manpower=0
 	buildings_max_level_factor=1.000
 }

@@ -4,6 +4,18 @@ state={
 	provinces={
 		3652 5205 5663 5748 9139 9176 
 	}
+	history={
+		owner = ZHI
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+		add_core_of = ANH
+		add_core_of = FEN
+		add_core_of = ZHI
+		add_core_of = PRC
+	state_category = rural
 	manpower=0
 	buildings_max_level_factor=1.000
 }

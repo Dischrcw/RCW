@@ -5,6 +5,18 @@ state={
 	provinces={
 		2342 2368 4471 4783 8740 10966 10967 
 	}
+	history={
+		owner = JAP
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+		add_core_of = ANH
+		add_core_of = FEN
+		add_core_of = ZHI
+		add_core_of = SOV
+		add_core_of = PAG
 	manpower=0
 	buildings_max_level_factor=1.000
 }
