@@ -66,3 +66,23 @@ CHU = {
 	color = rgb { 200 15 15 }
 	color_ui = rgb { 200 15 15 }
 }
+ACD = {
+	color = rgb { 194 157 54 }
+	color_ui = rgb { 194 157 54 }
+}
+FEN = {
+	color = rgb { 255  0 89 }
+	color_ui = rgb { 255  0 89 }
+}
+ZHI = {
+	color = rgb { 139 179 37 }
+	color_ui = rgb { 139 179 37 }
+}
+ANH = {
+	color = rgb { 255 244 190 }
+	color_ui = rgb { 255 244 190 }
+}
+NIN = {
+	color = rgb { 125 138 92 }
+	color_ui = rgb { 125 138 92 }
+}
