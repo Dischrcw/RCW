@@ -1,4 +1,4 @@
-capital = 1149
+capital = 261
 #The Merchants of Novo-Mariinsk have restored their own authority over the rebellious Soviet. Later called Anadyr.
 oob = "NMA_1919"
 

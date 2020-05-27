@@ -1,5 +1,5 @@
-capital = 8614
-#Led by von Ungern, quasi-subordinate of Semyonov. Will break away and invade Mongolia.
+capital = 300
+#Led by von Sternberg, quasi-subordinate of Semyonov. Will break away and invade Mongolia.
 oob = "ACD_1919"
 
 set_research_slots = 3

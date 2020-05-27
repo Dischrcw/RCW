@@ -1,4 +1,4 @@
-capital = 3688 #Okhotsk
+capital = 281 #Okhotsk
 
 oob = "OKH_1919"
 

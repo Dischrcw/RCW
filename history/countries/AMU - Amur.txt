@@ -1,4 +1,4 @@
-capital = 11013
+capital = 264
 #Ruled by Revolutionary Socialists purged from Kolchak's government. "We have just established the Soviet power and have come to solve the problem with you. Are you ready?" - The Representative of the Chita Cossack veterans upon returning from WW1
 oob = "AMU_1919"
 

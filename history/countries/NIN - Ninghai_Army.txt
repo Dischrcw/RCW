@@ -1,4 +1,4 @@
-capital = 1754
+capital = 441
 #Ninghai Muslim Army
 oob = "NIN_1919"
 

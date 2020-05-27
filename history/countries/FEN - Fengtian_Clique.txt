@@ -1,4 +1,4 @@
-capital = 3274
+capital = 422
 #Opposed to the Anhui Clique, allied with Zhili
 oob = "FEN_1919"
 

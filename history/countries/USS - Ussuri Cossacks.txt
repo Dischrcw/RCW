@@ -1,4 +1,4 @@
-﻿capital = 1592
+﻿capital = 162
 #Puppet of Amur, led by rapist and bandit. Widely disliked by the populace.
 oob = "USS_1919"
 

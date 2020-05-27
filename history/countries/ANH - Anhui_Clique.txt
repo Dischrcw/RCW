@@ -1,4 +1,4 @@
-capital = 1426
+capital = 447
 #Wan Government, opposed to Fengtian, initially cordial with Zhili Clique
 oob = "ANH_1919"
 

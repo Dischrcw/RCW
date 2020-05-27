@@ -1,4 +1,4 @@
-capital = 5438 #Pevek
+capital = 168 #Pevek
 
 oob = "CHU_1919"
 

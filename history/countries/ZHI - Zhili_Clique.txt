@@ -1,4 +1,4 @@
-capital = 4328
+capital = 443
 #Opposed to the Anhui Clique, allied with Fentiang Clique
 oob = "ZHI_1919"
 
