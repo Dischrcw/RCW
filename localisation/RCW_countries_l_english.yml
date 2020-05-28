@@ -126,3 +126,10 @@
  CHU_vanguard_socialism:0 "Chukotka Revolutionary Committee"
  CHU_vanguard_socialism_DEF:0 "The Chukotka Revolutionary Committee"
  CHU_vanguard_socialism_ADJ:0 "Revolutionary Chukchi"
+
+ KRM:0 "Crimea"
+ KRM_DEF:0 "Crimea"
+ KRM_ADJ:0 "Crimean"
+ KRM_liberalism:0 "Crimean Regional Government"
+ KRM_liberalism_DEF:0 "The Crimean Regional Government"
+ KRM_liberalism_ADJ:0 "Crimean"

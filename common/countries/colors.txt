@@ -86,3 +86,7 @@ NIN = {
 	color = rgb { 125 138 92 }
 	color_ui = rgb { 125 138 92 }
 }
+KRM = {
+	color = rgb { 25 48 179 }
+	color_ui = rgb { 25 48 179 }
+}
