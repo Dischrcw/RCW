@@ -5,6 +5,11 @@ state={
 	provinces={
 		4190 4439 5044 5585 5831 6424 6663 7783 
 	}
+	history={
+		owner = LBY
+		add_core_of = LBY
+
+	}
 	manpower=0
 	buildings_max_level_factor=1.000
 }
