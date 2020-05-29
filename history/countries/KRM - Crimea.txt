@@ -64,9 +64,9 @@ set_popularities = {
 	autocracy = 12
 	vanguard_socialism = 8
 	anarchism = 3
-	nationalism = 34
+	nationalism = 16
 	democratic_socialism = 5
-	liberalism = 16
+	liberalism = 34
 	conservatism = 22
 }
 
