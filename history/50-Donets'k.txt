@@ -1,0 +1,19 @@
+
+state={
+	id=50
+	name="STATE_50"
+
+	history={
+		owner = ENU
+		add_core_of = MAK
+		add_core_of = SVU
+		add_core_of = UKR
+
+	}
+
+	provinces={
+		1730 3415 5793 6334 6395 8239 
+	}
+	manpower=501185
+	buildings_max_level_factor=1.000
+}

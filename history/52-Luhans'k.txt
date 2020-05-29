@@ -1,0 +1,17 @@
+
+state={
+	id=52
+	name="STATE_52"
+
+	history={
+		owner = SVU
+		add_core_of = SVU
+
+	}
+
+	provinces={
+		643 1114 1818 5434 5638 6156 6808 8161 8185 8204 8231 8243 8247 8257 
+	}
+	manpower=495685
+	buildings_max_level_factor=1.000
+}
