@@ -1,6 +1,6 @@
-﻿capital = 69
+﻿capital = 30
 
-oob = "UKR_1919"
+oob = "POL_1919"
 
 set_research_slots = 3
 
