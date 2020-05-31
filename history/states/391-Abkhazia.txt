@@ -1,0 +1,13 @@
+state={
+	id=391
+	name="STATE_391"
+	provinces={
+		5763 6646 8467 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history = {
+		owner = GEO
+		add_core_of = GEO
+	}
+}

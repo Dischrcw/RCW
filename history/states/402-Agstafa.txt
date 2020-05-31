@@ -1,0 +1,12 @@
+state={
+	id=402
+	name="STATE_402"
+	provinces={
+		3832 8625 8637 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history = {
+		owner = GEO
+	}
+}

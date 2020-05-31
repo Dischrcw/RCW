@@ -3,8 +3,12 @@ state={
 	id=79
 	name="STATE_79"
 	provinces={
-		793 2486 4745 8719 
+		793 2486 3797 4745 8719 
 	}
 	manpower=125159
 	buildings_max_level_factor=1.000
+	history = {
+		owner = AZR
+		add_core_of = AZR
+	}
 }

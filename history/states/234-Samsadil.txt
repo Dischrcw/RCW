@@ -1,9 +1,14 @@
+
 state={
 	id=234
 	name="STATE_234"
 	provinces={
-		2086 3797 8716 
+		2086 8716 8728 
 	}
 	manpower=0
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=1.000\
+	history = {
+		owner = AZR
+		add_core_of = AZR
+	}
 }

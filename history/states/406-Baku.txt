@@ -1,0 +1,13 @@
+state={
+	id=406
+	name="STATE_406"
+	provinces={
+		4561 5777 6036 8742 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history = {
+		owner = AZR
+		add_core_of = AZR
+	}
+}

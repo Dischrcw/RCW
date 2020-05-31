@@ -133,3 +133,17 @@
  KRM_liberalism:0 "Crimean Regional Government"
  KRM_liberalism_DEF:0 "The Crimean Regional Government"
  KRM_liberalism_ADJ:0 "Crimean"
+
+ GEO:0 "Georgia"
+ GEO_DEF:0 "Georgia"
+ GEO_ADJ:0 "Georgian"
+ GEO_democratic_socialism:0 "Democratic Republic of Georgia"
+ GEO_democratic_socialism_DEF:0 "The Democratic Republic of Georgia"
+ GEO_democratic_socialism_ADJ:0 "Georgian"
+
+ AZR:0 "Azerbaijan"
+ AZR_DEF:0 "Azerbaijan"
+ AZR_ADJ:0 "Azerbaijani"
+ AZR_conservatism:0 "Azerbaijan Democratic Republic"
+ AZR_conservatism_DEF:0 "The Azerbaijan Democratic Republic"
+ AZR_conservatism_ADJ:0 "Azerbaijani"
