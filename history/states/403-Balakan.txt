@@ -1,8 +1,15 @@
+
 state={
 	id=403
 	name="STATE_403"
+
+	history={
+		owner = GEO
+
+	}
+
 	provinces={
-		3188 8616 
+		3188 8616 8653 8655 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

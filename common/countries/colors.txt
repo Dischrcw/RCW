@@ -90,3 +90,11 @@ KRM = {
 	color = rgb { 25 48 179 }
 	color_ui = rgb { 25 48 179 }
 }
+GEO = {
+	color = rgb { 150 45 56 }
+	color_ui = rgb { 150 45 56 }
+}
+AZR = {
+	color = rgb { 130 70 111 }
+	color_ui = rgb { 130 70 111 }
+}
