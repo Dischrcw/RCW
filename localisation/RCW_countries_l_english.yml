@@ -147,3 +147,10 @@
  AZR_conservatism:0 "Azerbaijan Democratic Republic"
  AZR_conservatism_DEF:0 "The Azerbaijan Democratic Republic"
  AZR_conservatism_ADJ:0 "Azerbaijani"
+
+ ARM:0 "Armenia"
+ ARM_DEF:0 "Armenia"
+ ARM_ADJ:0 "Armenian"
+ ARM_democratic_socialism:0 "Republic of Armenia"
+ ARM_democratic_socialism_DEF:0 "The Republic of Armenia"
+ ARM_democratic_socialism_ADJ:0 "Armenian"

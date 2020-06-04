@@ -98,3 +98,7 @@ AZR = {
 	color = rgb { 130 70 111 }
 	color_ui = rgb { 130 70 111 }
 }
+ARM = {
+	color = rgb { 176 76 42 }
+	color_ui = rgb { 176 76 42 }
+}
