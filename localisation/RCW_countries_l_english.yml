@@ -1,5 +1,14 @@
 ﻿l_english:
  #####A Song of Red and White #####
+ FRE:0 "Freikorps in the Baltic"
+ FRE_DEF:0 "The Freikorps in the Baltic"
+ FRE_ADJ:0 "Freikorp"
+ LAN:0 "Baltische Landeswehr"
+ LAN_DEF:0 "The Baltische Landeswher"
+ LAN_ADJ:0 "Baltic German"
+ LSR:0 "Latvian Socialist Soviet Republic"
+ LSR_DEF:0 "The Latvian Socialist Republic"
+ LSR_ADJ:0 "Latvian"
  SVU_vanguard_socialism:0 "Ukrainian Soviet Socialist Republic"
  SVU_vanguard_socialism_DEF:0 "The Ukrainian Soviet Socialist Republic"
  SVU_vanguard_socialism_ADJ:0 "Ukrainian"
