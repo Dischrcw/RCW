@@ -1,0 +1,13 @@
+state={
+	id=440
+	name="STATE_440"
+	provinces={
+		7493 7547
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history = {
+		owner = LAT
+		add_core_of = LAT
+	}
+}
