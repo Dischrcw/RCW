@@ -1,5 +1,11 @@
 ﻿l_english:
  #####A Song of Red and White #####
+ LAT:0 "Latvian Provisional Government"
+ LAT_DEF:0 "The Latvian Provisional Government"
+ LAT_ADJ:0 "Latvian"
+ WRW:0 "West Russian Volunteer Army"
+ WRW_DEF:0 "The West Russian Volunteer Army"
+ WRW_ADJ:0 "Bermontians"
  FRE:0 "Freikorps in the Baltic"
  FRE_DEF:0 "The Freikorps in the Baltic"
  FRE_ADJ:0 "Freikorp"
