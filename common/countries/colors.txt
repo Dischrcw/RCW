@@ -102,3 +102,11 @@ ARM = {
 	color = rgb { 176 76 42 }
 	color_ui = rgb { 176 76 42 }
 }
+LSR = {
+	color = rgb { 184  18  49 }
+	color_ui = rgb { 184  18  49 }
+}
+MNT = {
+	color = rgb { 16  109  31 }
+	color_ui = rgb { 16  109  31 }
+}
