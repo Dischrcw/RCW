@@ -110,3 +110,15 @@ MNT = {
 	color = rgb { 16  109  31 }
 	color_ui = rgb { 16  109  31 }
 }
+LAT = {
+	color = rgb { 158 48 87 }
+	color_ui = rgb { 158 48 87 }
+}
+FRE = {
+	color = rgb { 137 144 153 } 
+	color_ui = rgb { 137 144 153 } 
+}
+LIT = {
+	color = rgb { 253 186 11 }
+	color_ui = rgb { 253 186 11 }
+}
