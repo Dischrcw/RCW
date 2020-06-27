@@ -1,0 +1,18 @@
+
+state={
+	id=436
+	name="STATE_436"
+
+	history={
+		owner = LBY
+		add_core_of = LBY
+		add_core_of = LIT
+
+	}
+
+	provinces={
+		3252 3864 4132 4423 4693 5764 5946 6328 6545 7509 7563 7598 7604 7630 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

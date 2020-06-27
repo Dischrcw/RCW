@@ -1,5 +1,11 @@
 ﻿l_english:
  #####A Song of Red and White #####
+ LAT:0 "Latvian Provisional Government"
+ LAT_DEF:0 "The Latvian Provisional Government"
+ LAT_ADJ:0 "Latvian"
+ WRW:0 "West Russian Volunteer Army"
+ WRW_DEF:0 "The West Russian Volunteer Army"
+ WRW_ADJ:0 "Bermontians"
  FRE:0 "Freikorps in the Baltic"
  FRE_DEF:0 "The Freikorps in the Baltic"
  FRE_ADJ:0 "Freikorp"
@@ -163,3 +169,10 @@
  ARM_democratic_socialism:0 "Republic of Armenia"
  ARM_democratic_socialism_DEF:0 "The Republic of Armenia"
  ARM_democratic_socialism_ADJ:0 "Armenian"
+
+ MNT:0 "Mountain Republic"
+ MNT_DEF:0 "The Mountain Republic"
+ MNT_ADJ:0 "Mountainous"
+ MNT_nationalism:0 "Mountain Republic of the North Caucasus"
+ MNT_nationalism_DEF:0 "The Mountain Republic of the North Caucasus"
+ MNT_nationalism_ADJ:0 "Mountainous"

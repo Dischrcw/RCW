@@ -2,8 +2,15 @@
 state={
 	id=88
 	name="STATE_88"
+
+	history={
+		owner = LSR
+		add_core_of = LSR
+
+	}
+
 	provinces={
-		405 5153 6009 6764 7477 
+		7477 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
