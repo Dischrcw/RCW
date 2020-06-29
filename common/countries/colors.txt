@@ -126,3 +126,7 @@ FRA = {
 	color = rgb { 57  113  228 }
 	color_ui = rgb { 57  113  228 }
 }
+KUB = {
+	color = rgb { 156  11  83 }
+	color_ui = rgb { 156  11  83 }
+}

@@ -1,6 +1,6 @@
-﻿capital = 81
+﻿capital = 274
 
-oob = "KRM_1919"
+oob = "KUB_1919"
 
 set_research_slots = 3
 
@@ -61,39 +61,39 @@ if = {
 }
 
 set_popularities = {
-	autocracy = 12
+	autocracy = 32
 	vanguard_socialism = 8
 	anarchism = 3
-	nationalism = 16
-	democratic_socialism = 5
-	liberalism = 34
-	conservatism = 22
+	nationalism = 14
+	democratic_socialism = 17
+	liberalism = 8
+	conservatism = 18
 }
 
 set_politics = {
-	ruling_party = liberalism
+	ruling_party = autocracy
 	last_election = "1932.5.21"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Solomon Krym"
+	name = "Alexander Filimonov"
 	desc = ""
-	picture = "gfx/leaders/KRM/portrait_KRM_solomon_krym.dds"
+	picture = "gfx/leaders/KUB/portrait_KUB_alexander_filimonov.dds"
 	expire = "1953.3.1"
-	ideology = liberalism
+	ideology = autocracy
 	traits = {
 		
 	}
 }
 
 create_country_leader = {
-	name = "Nikita Sergeyevich Khrushchev"
+	name = "Sergo Ordzhonikidze"
 	desc = ""
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_4.dds"
+	picture = ""
 	expire = "1953.3.1"
-	ideology = marxism
+	ideology = vanguard_socialism
 	traits = {
 		
 	}

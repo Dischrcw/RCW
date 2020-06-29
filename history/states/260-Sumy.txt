@@ -3,14 +3,8 @@ state={
 	id=260
 	name="STATE_260"
 
-	history={
-		owner = SVU
-		add_core_of = SVU
-
-	}
-
 	provinces={
-		1359 2253 5223 6309 8046 
+		1359 2253 8046 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
