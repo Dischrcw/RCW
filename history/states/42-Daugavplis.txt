@@ -9,5 +9,7 @@ state={
 	history = {
 		owner = LSR
 		add_core_of = LSR
+		
+		victory_points = { 7616 15 }
 	}
 }
