@@ -1,13 +1,17 @@
+
 state={
 	id=433
 	name="STATE_433"
-	provinces={
-		4333 4658 7823 7837 
-	}
-	manpower=0
-	buildings_max_level_factor=1.000
+
 	history={
 		owner = LBY
 		add_core_of = LBY
+
 	}
+
+	provinces={
+		2989 4333 4658 7823 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
 }

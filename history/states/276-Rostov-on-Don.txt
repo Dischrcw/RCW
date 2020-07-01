@@ -2,13 +2,16 @@
 state={
 	id=276
 	name="STATE_276"
-	provinces={
-		1604 3436 5216 8273 8276 8303 
-	}
-	manpower=0
-	buildings_max_level_factor=1.000
+
 	history={
 		owner = DON
 		add_core_of = DON
+
 	}
+
+	provinces={
+		1604 1730 3415 3436 5216 6395 8270 8273 8276 8303 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
 }

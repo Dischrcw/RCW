@@ -1,9 +1,14 @@
+
 state={
 	id=389
 	name="STATE_389"
 	provinces={
-		5259 5536 6350 8048 8064 
+		6350 8048 8064 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
+history={
+		owner = SVU
+		add_core_of = SVU
+	}
 }

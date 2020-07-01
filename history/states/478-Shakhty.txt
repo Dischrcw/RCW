@@ -1,13 +1,17 @@
+
 state={
 	id=478
 	name="STATE_478"
-	provinces={
-		2583 5434 5545 6598 8257 8304 
-	}
-	manpower=0
-	buildings_max_level_factor=1.000
+
 	history={
 		owner = DON
 		add_core_of = DON
+
 	}
+
+	provinces={
+		2583 5434 5545 6598 8243 8247 8257 8304 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
 }
