@@ -2,13 +2,16 @@
 state={
 	id=425
 	name="STATE_425"
-	provinces={
-		1386 5731 6569 8339 
-	}
-	manpower=0
-	buildings_max_level_factor=1.000
+
 	history={
 		owner = KUB
 		add_core_of = KUB
+
 	}
+
+	provinces={
+		800 1386 5731 6569 8339 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
 }

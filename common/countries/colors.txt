@@ -130,3 +130,15 @@ KUB = {
 	color = rgb { 156  11  83 }
 	color_ui = rgb { 156  11  83 }
 }
+DON = {
+	color = rgb { 173  146  0 }
+	color_ui = rgb { 173  146  0 }
+}
+PAG = {
+	color = rgb { 50 50 150 }
+	color_ui = rgb { 50 50 150 }
+}
+SRU = {
+	color = rgb { 15 140 21 }
+	color_ui = rgb { 15 140 21 }
+}

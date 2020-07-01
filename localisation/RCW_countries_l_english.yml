@@ -183,3 +183,17 @@
  KUB_autocracy:0 "Kuban People's Republic"
  KUB_autocracy_DEF:0 "The Kuban People's Republic"
  KUB_autocracy_ADJ:0 "Kuban"
+
+ DON:0 "Don Cossacks"
+ DON_DEF:0 "The Don Cossacks"
+ DON_ADJ:0 "Cossack"
+ DON_conservatism:0 "Don Republic"
+ DON_conservatism_DEF:0 "The Don Republic"
+ DON_conservatism_ADJ:0 "Don"
+
+ SRU:0 "South Russia"
+ SRU_DEF:0 "Southern Russia"
+ SRU_ADJ:0 "South Russian"
+ SRU_autocracy:0 "Armed Forces of South Russia"
+ SRU_autocracy_DEF:0 "The Armed Forces of South Russia"
+ SRU_autocracy_ADJ:0 "South Russian"

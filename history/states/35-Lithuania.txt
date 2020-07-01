@@ -2,13 +2,16 @@
 state={
 	id=35
 	name="STATE_35"
-	provinces={
-		119 2838 3472 3878 4732 5889 7492 7546 7560 7630 11056 
-	}
-	manpower=0
-	buildings_max_level_factor=1.000
+
 	history={
 		owner = LIT
 		add_core_of = LIT
+
 	}
+
+	provinces={
+		119 2838 3472 3878 4732 5889 7492 7546 7560 11056 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
 }
