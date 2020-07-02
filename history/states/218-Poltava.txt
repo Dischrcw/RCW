@@ -2,13 +2,16 @@
 state={
 	id=218
 	name="STATE_218"
-	provinces={
-		3185 3703 3712 4909 8073 8095 8127 8131 
-	}
-	manpower=0
-	buildings_max_level_factor=1.000
+
 	history={
 		owner = SVU
 		add_core_of = SVU
+
 	}
+
+	provinces={
+		3185 3703 3712 4909 8073 8095 8131 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
 }
