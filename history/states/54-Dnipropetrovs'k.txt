@@ -4,13 +4,15 @@ state={
 	name="STATE_54"
 
 	history={
-		owner = MAK
+		owner = SVU
 		add_core_of = MAK
+		add_core_of = SVU
+		add_core_of = UKR
 
 	}
 
 	provinces={
-		2295 5630 6810 8130 
+		2295 5630 6692 6810 8130 
 	}
 	manpower=609185
 	buildings_max_level_factor=1.000
