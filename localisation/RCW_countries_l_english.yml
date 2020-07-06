@@ -197,3 +197,10 @@
  SRU_autocracy:0 "Armed Forces of South Russia"
  SRU_autocracy_DEF:0 "The Armed Forces of South Russia"
  SRU_autocracy_ADJ:0 "South Russian"
+
+ SOV:0 "Soviet Russia"
+ SOV_DEF:0 "Soviet Russia"
+ SOV_ADJ:0 "Soviet"
+ SOV_vanguard_socialism:0 "Russian Soviet Federative Socialist Republic"
+ SOV_vanguard_socialism_DEF:0 "The Russian Soviet Federative Socialist Republic"
+ SOV_vanguard_socialism_ADJ:0 "Soviet"

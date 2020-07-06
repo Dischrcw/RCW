@@ -142,3 +142,7 @@ SRU = {
 	color = rgb { 15 140 21 }
 	color_ui = rgb { 15 140 21 }
 }
+SOV = {
+	color = rgb { 184  18  49 }
+	color_ui = rgb { 184  18  49 }
+}

@@ -3,8 +3,12 @@ state={
 	id=151
 	name="STATE_151"
 	provinces={
-		1060 1676 3215 3584 4431 4814 4874 5066 5495 6206 8354 8375 
+		4431 4814 6206 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
+	history={
+		owner = SOV
+		add_core_of = SOV
+	}
 }
