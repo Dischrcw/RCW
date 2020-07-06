@@ -1,0 +1,13 @@
+state={
+	id=486
+	name="STATE_486"
+	provinces={
+		6598 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history={
+		owner = DON
+		add_core_of = DON
+	}
+}
