@@ -43,20 +43,151 @@ ideas = {
 		
 		}
 	}
-	
-		class_war = {
-		
-		allowed = {
-			always = no
-			original_tag = LSR
-		}
-		allowed_civil_war = {
-			always = yes
-		}
-		
-		removal_cost = -1
-		
-		modifier = {
-			training_time_army_factor = 0.3
 }
+	
+	political_advisor = {
+	
+			LSR_karlis_petersons = {
+
+			picture = advisor_LSR_karlis_peterson.dds
+
+			allowed = {
+				original_tag = LSR
+			}
+
+			traits = { war_commissar }
+
+		}
+	
+			LSR_rudolfs_endrups = {
+
+			picture = advisor_LSR_rudolf_endrup.dds
+
+			allowed = {
+				original_tag = LSR
+			}
+
+			traits = { food_comissar }
+
+		}
+
+			LSR_eduards_zandereits = {
+
+			picture = advisor_LSR_eduards_zandereits.dds
+
+			allowed = {
+				original_tag = LSR
+			}
+
+			traits = { construction_and_public_works }
+
+		}
 		
+			LSR_davids_belka = {
+
+			picture = advisor_LSR_davids_belka.dds
+
+			allowed = {
+				original_tag = LSR
+			}
+
+			traits = { industry_comissar }
+
+		}
+		
+			LSR_fricis_rozins = {
+
+			picture = advisor_LSR_fricis_rozins.dds
+
+			allowed = {
+				original_tag = LSR
+			}
+
+			traits = { agriculture_comissar }
+
+		}
+		
+			LSR_janis_berzins = {
+
+			picture = advisor_LSR_janis_berzins.dds
+
+			allowed = {
+				original_tag = LSR
+			}
+
+			traits = { education_comissar }
+
+		}
+		
+			LSR_oto_karklins = {
+
+			picture = advisor_LSR_oto_karklins.dds
+
+			allowed = {
+				original_tag = LSR
+			}
+
+			traits = { revolutionary_in_heart }
+
+		}
+		
+			LSR_janis_krumins = {
+
+			picture = advisor_LSR_janis_krumins.dds
+
+			allowed = {
+				original_tag = LSR
+			}
+
+			traits = { cc_propagandist }
+
+		}
+		
+			LSR_janis_lecmanis = {
+
+			picture = advisor_LSR_janis_lecmanis.dds
+
+			allowed = {
+				original_tag = LSR
+			}
+
+			traits = { pcioa }
+
+		}
+		
+			LSR_janis_silfs = {
+
+			picture = advisor_LSR_janis_silfs.dds
+
+			allowed = {
+				original_tag = LSR
+			}
+
+			traits = { government_secretary }
+
+		}
+
+			LSR_karlis_pecaks = {
+
+			picture = advisor_LSR_pecaks_karlis.dds
+
+			allowed = {
+				original_tag = LSR
+			}
+
+			traits = { bloody_marxist }
+
+		}
+		
+			LSR_roberts_bauze = {
+
+			picture = advisor_LSR_roberts_bauze.dds
+
+			allowed = {
+				original_tag = LSR
+			}
+
+			traits = { rmcpdc }
+
+		}
+}
