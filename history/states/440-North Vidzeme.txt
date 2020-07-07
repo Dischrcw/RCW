@@ -7,6 +7,7 @@ state={
 		owner = LAT
 		add_core_of = LAT
 
+			victory_points = { 11058 5 }	
 	}
 
 	provinces={
