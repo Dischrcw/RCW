@@ -1,13 +1,17 @@
+
 state={
 	id=434
 	name="STATE_434"
+
+	history={
+		owner = ARM
+		add_core_of = ARM
+
+	}
+
 	provinces={
-		1847 2285 3059 4210 8509 8543 8556 
+		1847 2285 3059 4210 8509 8526 8543 8556 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
-	history = {
-		owner = ARM
-		add_core_of = ARM
-	}
 }

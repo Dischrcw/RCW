@@ -1,9 +1,14 @@
+
 state={
 	id=429
 	name="STATE_429"
 	provinces={
-		2836 4054 6366 8354 
+		2836 4054 6366 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
+	history={
+		owner = DON
+		add_core_of = DON
+	}
 }

@@ -65,13 +65,14 @@ set_popularities = {
 	vanguard_socialism = 13
 	anarchism = 6
 	nationalism = 13
-	democratic_socialism = 33
+	democratic_socialism = 5
 	liberalism = 14
 	conservatism = 19
+	social_democracy = 28
 }
 
 set_politics = {
-	ruling_party = democratic_socialism
+	ruling_party = social_democracy
 	last_election = "1932.5.21"
 	election_frequency = 48
 	elections_allowed = no
@@ -80,9 +81,9 @@ set_politics = {
 create_country_leader = {
 	name = "Noe Zhordania"
 	desc = ""
-	picture = ""
+	picture = "gfx/leaders/GEO/portrait_GEO_noe_zhordania.dds"
 	expire = "1953.3.1"
-	ideology = democratic_socialism
+	ideology = social_democracy
 	traits = {
 		
 	}
