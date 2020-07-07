@@ -1,18 +1,18 @@
 
 state={
-	id=368
-	name="STATE_368"
+	id=510
+	name="STATE_510"
 	provinces={
-		2041 2154 2504 3022 4536 4701 5540 8355 8370 8378 
+		1710
 	}
 	history={
-		owner = SOV
+		owner = PRI
 		buildings = {
 			infrastructure = 1
 
 		}
+		add_core_of = PRI
 	}
-		add_core_of = SOV
 	state_category = rural
 	manpower=0
 	buildings_max_level_factor=1.000

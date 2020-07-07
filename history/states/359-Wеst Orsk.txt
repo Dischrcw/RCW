@@ -1,9 +1,9 @@
 
 state={
-	id=368
-	name="STATE_368"
+	id=359
+	name="STATE_359"
 	provinces={
-		2041 2154 2504 3022 4536 4701 5540 8355 8370 8378 
+		1827 3053 4030 6241 6702 8430 
 	}
 	history={
 		owner = SOV
@@ -11,8 +11,8 @@ state={
 			infrastructure = 1
 
 		}
-	}
 		add_core_of = SOV
+	}
 	state_category = rural
 	manpower=0
 	buildings_max_level_factor=1.000
