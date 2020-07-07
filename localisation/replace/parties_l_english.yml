@@ -20,6 +20,8 @@
  autocracy_desc:0 "Authoritarian Regime"
  anarchism:0 "Anarchism"
  anarchism_desc:0 "Collective Union"
+ social_democracy:0 "Social Democracy"
+ social_democracy_desc:0 "Welfare State"
  #####Parties#####
  EST_autocracy_party:0 "Isamaaliit"
  EST_liberalism_party:0 "RKE"
