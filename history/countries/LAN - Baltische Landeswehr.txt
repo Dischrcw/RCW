@@ -112,17 +112,17 @@ set_convoys = 5
 }
 
 set_politics = {
-	ruling_party = conservatism
+	ruling_party = autocracy
 	last_election = "1932.5.21"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	autocracy = 38
+	autocracy = 48
 	nationalism = 7
 	democratic_socialism = 1
 	liberalism = 6
-	conservatism = 48
+	conservatism = 38
 }
 
 1939.1.1 = {
@@ -135,19 +135,19 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "Rüdiger von der Goltz"
+	name = "Alfred Fletcher"
 	desc = "POLITICS_RUDIGER_GOLTZ_DESC"
-	picture = "GFX/leaders/LAN/portrait_LAN_rudiger_goltz.dds"
+	picture = "portrait_LAN_alfred_fletcher.dds"
 	expire = "1965.1.1"
-	ideology = Authoritarian_Conservative
+	ideology = autocracy
 	traits = {
 		#
 	}
 }
 
 create_field_marshal = {
-	name = "Rüdiger von der Goltz"
-	picture = "portrait_LAN_rudiger_goltz.dds"
+	name = "Alfred Fletcher"
+	picture = "portrait_LAN_alfred_fletcher.dd"
 	traits = { 
 		# 
 	}
