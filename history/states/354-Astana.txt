@@ -4,6 +4,14 @@ state={
 	provinces={
 		796 1224 2017 2540 3042 3050 3602 3732 3767 3811 4654 5608 5859 6719 8540 8559 
 	}
+	history={
+		owner = ALA
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = ALA
+	}
 	manpower=0
 	buildings_max_level_factor=1.000
 }

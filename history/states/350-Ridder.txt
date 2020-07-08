@@ -5,13 +5,13 @@ state={
 		482 883 1023 1419 2265 3051 3894 4429 4457 4623 5379 5657 6109 6623 8635 8702 8711 8748 8757 8777 10940 
 	}
 	history={
-		owner = PAG
+		owner = ALA
 		buildings = {
 			infrastructure = 1
 
 		}
+		add_core_of = ALA
 	}
-		add_core_of = PAG
 	state_category = rural
 	manpower=0
 	buildings_max_level_factor=1.000

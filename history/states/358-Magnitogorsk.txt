@@ -6,13 +6,13 @@ state={
 		2512 2975 5128 5234 6097 8341 8353 8376 8415 
 	}
 	history={
-		owner = PAG
+		owner = ORE
 		buildings = {
 			infrastructure = 1
 
 		}
 	}
-		add_core_of = PAG
+		add_core_of = ORE
 	state_category = rural
 	manpower=0
 	buildings_max_level_factor=1.000
