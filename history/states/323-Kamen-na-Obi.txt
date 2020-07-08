@@ -2,7 +2,7 @@ state={
 	id=323
 	name="STATE_323"
 	provinces={
-		1181 1765 3097 3182 5460 8510 8539 
+		1181 1765 3097 3182 5460 8510 
 	}
 	history={
 		owner = PAG

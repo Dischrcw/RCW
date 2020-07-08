@@ -1,0 +1,101 @@
+ideas = {
+
+	country = {
+	
+		class_war = {
+		
+		allowed = {
+			always = no
+		}
+		allowed_civil_war = {
+			always = yes
+		}
+		
+		removal_cost = -1
+		
+		modifier = {
+			training_time_army_factor = 0.3
+		}
+	}
+	
+		independence_war = {
+		
+		allowed = {
+			always = no
+		}
+		allowed_civil_war = {
+			always = yes
+		}
+		
+		removal_cost = -1
+		
+		modifier = {
+			army_core_attack_factor = 0.1
+			army_core_defence_factor = 0.1
+		}
+	}
+	
+		empire_war = {
+		
+		allowed = {
+			always = no
+		}
+		allowed_civil_war = {
+			always = yes
+		}
+		
+		removal_cost = -1
+		
+		modifier = {
+			army_morale_factor = 0.1
+		}
+	}	
+		
+		privilege_war = {
+		
+		allowed = {
+			always = no
+		}
+		allowed_civil_war = {
+			always = yes
+		}
+		
+		removal_cost = -1
+		
+		modifier = {
+			recon_factor = 0.1
+		}
+	}
+		
+		citizenship_war = {
+		
+		allowed = {
+			always = no
+		}
+		allowed_civil_war = {
+			always = yes
+		}
+		
+		removal_cost = -1
+		
+		modifier = {
+			no_supply_grace = 48
+		}
+	}
+		government_war = {
+			
+		allowed = {
+			always = no
+		}
+		allowed_civil_war = {
+			always = yes
+		}
+		
+		removal_cost = -1
+		
+		modifier = {
+			non_core_manpower = 0.02
+		}	
+	}
+}
+		

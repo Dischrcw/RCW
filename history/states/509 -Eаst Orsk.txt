@@ -1,0 +1,19 @@
+
+state={
+	id=509
+	name="STATE_509"
+	provinces={
+		3259 3910 4555 4719 8446 
+	}
+	history={
+		owner = ORE
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = ORE
+	}
+	state_category = rural
+	manpower=0
+	buildings_max_level_factor=1.000
+}

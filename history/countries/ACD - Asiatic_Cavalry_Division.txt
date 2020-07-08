@@ -80,6 +80,7 @@ if = {
 }
 
 set_popularities = {
+	social_democracy = 0
 	autocracy = 20
 	vanguard_socialism = 15
 	anarchism = 3

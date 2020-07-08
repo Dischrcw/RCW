@@ -1,15 +1,19 @@
+
 state={
 	id=49
 	name="STATE_49"
-	provinces={
-		4666 5060 5610 6671 8234 8256 8270 
-	}
-	manpower=508185
-	buildings_max_level_factor=1.000
-	history = {
+
+	history={
 		owner = ENU
 		add_core_of = MAK
 		add_core_of = SVU
 		add_core_of = UKR
+
 	}
+
+	provinces={
+		5060 6537 8232 8245 8256 
+	}
+	manpower=508185
+	buildings_max_level_factor=1.000
 }

@@ -126,6 +126,7 @@ set_popularities = {
 	democratic_socialism = 0
 	liberalism = 57
 	conservatism = 18
+	social_democracy = 0
 }
 
 1939.1.1 = {

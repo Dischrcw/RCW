@@ -1,8 +1,16 @@
+
 state={
 	id=381
 	name="STATE_381"
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+
+	}
+
 	provinces={
-		1925 4581 5688 8140 8157 
+		1703 1925 3964 4581 5688 8140 8157 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

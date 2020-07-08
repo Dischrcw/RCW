@@ -1,9 +1,14 @@
+
 state={
 	id=424
 	name="STATE_424"
 	provinces={
-		2210 6095 8295 
+		2210 8295 8307 8312 8321 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
+	history={
+		owner = DON
+		add_core_of = DON
+	}
 }

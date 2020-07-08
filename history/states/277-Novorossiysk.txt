@@ -2,8 +2,15 @@
 state={
 	id=277
 	name="STATE_277"
+
+	history={
+		owner = KUB
+		add_core_of = KUB
+
+	}
+
 	provinces={
-		2885 3815 5508 5850 5896 6592 8382 8421 8424 
+		2885 3815 5131 5508 5850 5896 6481 6592 8382 8421 8424 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

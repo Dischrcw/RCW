@@ -6,13 +6,13 @@ state={
 		2041 2154 2504 3022 4536 4701 5540 8355 8370 8378 
 	}
 	history={
-		owner = PAG
+		owner = SOV
 		buildings = {
 			infrastructure = 1
 
 		}
 	}
-		add_core_of = PAG
+		add_core_of = SOV
 	state_category = rural
 	manpower=0
 	buildings_max_level_factor=1.000

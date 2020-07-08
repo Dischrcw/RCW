@@ -1,0 +1,13 @@
+state={
+	id=484
+	name="STATE_484"
+	provinces={
+		2008 2699 3607 3667 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history={
+		owner = SRU
+		add_core_of = SRU
+	}
+}

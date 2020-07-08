@@ -12,10 +12,13 @@ ideologies = {
 			stalinism = {
 			}
 			
-			Trotskyism = {
+			trotskyism = {
 			}
 			
-			Communism = {
+			communism = {
+			}
+
+			national_communism = {
 			}
 		}
 		
@@ -27,7 +30,7 @@ ideologies = {
 			"FACTION_NAME_COMMUNIST_5"
 		}
 		
-		color = { 117 32 32 }
+		color = { 85 0 14 }
 		
 		war_impact_on_world_tension = 0.75		#Commie less threatening
 		faction_impact_on_world_tension = 0.5
@@ -69,10 +72,7 @@ autocracy = {
 				can_be_randomly_selected = no # won't be assigned to randomly generated country leaders
 			}
 			
-			moderatism = {
-			}
-			
-			centrism = {
+			monarchism = {
 			}
 		}
 
@@ -84,7 +84,7 @@ autocracy = {
 			"FACTION_NAME_NONALIGNED_5"
 		}
 		
-		color = { 180 180 180 }
+		color = { 100 100 100 }
 		
 		
 		war_impact_on_world_tension = 0.25		#no major danger
@@ -118,21 +118,19 @@ anarchism = {
 	
 		types = {
 		
-			Anarcho_Communism  = {
+			anarcho_communism  = {
 			}
 			
-			Anarcho_Capitilism  = {
+			individualist_anarchism  = {
 			}
 
 			anarchism = {
 				can_be_randomly_selected = no # won't be assigned to randomly generated country leaders
 			}
 			
-			Anarcho_bolsheviks = {
+			green_anarchism = {
 			}
 			
-			Anarcho_Internationalist = {
-			}
 		}
 
 		dynamic_faction_names = {
@@ -143,7 +141,7 @@ anarchism = {
 			"FACTION_NAME_NONALIGNED_5"
 		}
 		
-		color = { 0 0 0 }
+		color = { 30 30 30 }
 		
 		
 		war_impact_on_world_tension = 0.25		#major danger
@@ -178,16 +176,22 @@ nationalism = {
 	
 		types = {
 		
-			Russian_Ultra_Nationalist = {
+			russophile = {
 			}
 			
-			Monarcho_Nationalist = {
+			seperatist = {
+			}
+
+			fascism = {
 			}
 			
 			nationalism = {
 			}
 			
 			Anti_Bolshevism = {
+			}
+
+			national_conservatism = {
 			}
 		}
 		
@@ -230,11 +234,12 @@ nationalism = {
 			democratic_socialism = {
 			}
 		
-			liberal_Socialist = {
+			libertarian_socialism = {
 			}
 		
-			socialism = {
+			left_communism = {
 			}
+
 		}
 		
 		dynamic_faction_names = {
@@ -246,7 +251,7 @@ nationalism = {
 			"FACTION_NAME_DEMOCRATIC_6"
 		}
 		
-		color = { 235 99 137 }
+		color = { 180 45 45 }
 		
 		rules = {
 			can_create_collaboration_government = no
@@ -289,10 +294,10 @@ liberalism = {
 			liberalism = {
 			}
 		
-			Conservative_Libertarian = {
+			social_liberalism = {
 			}
 		
-			Left_Wing_Libertarian = {
+			libertarianism = {
 			}
 		}
 		
@@ -348,7 +353,7 @@ liberalism = {
 			conservatism  = {
 			}
 			
-			Anti_Bolshevic_Conservative  = {
+			Anti_Bolshevik_Conservative  = {
 			}
 
 			Russian_Tsarism = {
@@ -357,8 +362,8 @@ liberalism = {
 			
 			moderatism = {
 			}
-			
-			Authoritarian_Conservative = {
+
+			centrism = {
 			}
 		}
 
@@ -397,4 +402,64 @@ liberalism = {
 		
 		faction_modifiers = {
 		}
+	}
+social_democracy = {
+	
+		types = {
+			
+			social_democracy = {
+			}
+		
+			welfare_capitalism = {
+			}
+		
+			menshevik = {
+			}
+
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_DEMOCRATIC_1"
+			"FACTION_NAME_DEMOCRATIC_2"
+			"FACTION_NAME_DEMOCRATIC_3"
+			"FACTION_NAME_DEMOCRATIC_4"
+			"FACTION_NAME_DEMOCRATIC_5"
+			"FACTION_NAME_DEMOCRATIC_6"
+		}
+		
+		color = { 225 140 140 }
+		
+		rules = {
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = no
+			can_force_government = yes
+			can_send_volunteers = no
+			can_puppet = no
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+		
+		can_host_government_in_exile = yes
+		
+		war_impact_on_world_tension = 0.25		# no major danger, remember this this the 40s!
+		faction_impact_on_world_tension = 0.1
+		
+		modifiers = {
+			generate_wargoal_tension = 0
+			join_faction_tension = 0
+			lend_lease_tension = 0
+			send_volunteers_tension = 0
+			guarantee_tension = 0
+			annex_cost_factor = 0
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 5.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 5
+		}
+		
+		faction_modifiers = {
+			faction_trade_opinion_factor = 0.50 #plus 50% trade opinion
+		}
+		ai_democratic = yes # uses the democratic AI behaviour
 	}

@@ -4,6 +4,10 @@ state={
 	provinces={
 		319 373 777 1907 2000 3187 3309 3380 3588 3675 3718 3892 4065 4179 4520 4885 5703 6453 6664 8803 8861 8895 8920 8929 8943 8953 
 	}
+	history={
+		owner = TUK
+		add_core_of = TUK
+	}
 	manpower=0
 	buildings_max_level_factor=1.000
 }

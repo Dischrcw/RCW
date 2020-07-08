@@ -2,8 +2,15 @@
 state={
 	id=150
 	name="STATE_150"
+
+	history={
+		owner = KUB
+		add_core_of = KUB
+
+	}
+
 	provinces={
-		2571 3282 4042 4890 5266 8466 
+		1143 2571 3282 4042 5266 8466 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

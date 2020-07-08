@@ -3,13 +3,12 @@ state={
 	id=205
 	name="STATE_205"
 	provinces={
-		310 1036 3244 4050 5941 7935 7996 
-	}
-	history={
-		owner = SVU
-		add_core_of = SVU
-
+		310 4050 5941 6309 7992 7992 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
+	history={
+		owner = SOV
+		add_core_of = SOV
+	}
 }

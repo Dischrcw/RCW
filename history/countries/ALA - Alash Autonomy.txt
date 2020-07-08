@@ -1,0 +1,48 @@
+﻿capital = 363
+
+oob = "ALA_1919"
+
+
+add_ideas = {
+	extensive_conscription
+	partial_mobilisation
+	
+}
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	gw_artillery = 1
+	tech_support = 1
+	
+}
+
+
+set_convoys = 0
+
+set_politics = {	
+	ruling_party = nationalism
+	last_election = "1919.1.1"
+	election_frequency = 24
+	elections_allowed = no
+}
+
+set_popularities = {
+   nationalism= 52
+   democratic_socialism = 4
+   autocracy = 15
+   conservatism = 22
+   liberalism = 7
+}
+
+create_country_leader = {
+	name = "Alikhan Nurmukhamedovich Bukeikhanov"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = nationalism
+	traits = {
+		#
+	}
+}
+
+

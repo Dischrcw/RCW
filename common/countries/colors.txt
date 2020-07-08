@@ -122,3 +122,27 @@ LIT = {
 	color = rgb { 253 186 11 }
 	color_ui = rgb { 253 186 11 }
 }
+FRA = {
+	color = rgb { 57  113  228 }
+	color_ui = rgb { 57  113  228 }
+}
+KUB = {
+	color = rgb { 156  11  83 }
+	color_ui = rgb { 156  11  83 }
+}
+DON = {
+	color = rgb { 173  146  0 }
+	color_ui = rgb { 173  146  0 }
+}
+PAG = {
+	color = rgb { 50 50 150 }
+	color_ui = rgb { 50 50 150 }
+}
+SRU = {
+	color = rgb { 15 140 21 }
+	color_ui = rgb { 15 140 21 }
+}
+SOV = {
+	color = rgb { 184  18  49 }
+	color_ui = rgb { 184  18  49 }
+}
