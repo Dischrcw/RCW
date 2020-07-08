@@ -146,3 +146,11 @@ SOV = {
 	color = rgb { 184  18  49 }
 	color_ui = rgb { 184  18  49 }
 }
+LAN = {
+	color = rgb { 137 144 153 } 
+	color_ui = rgb { 137 144 153 } 
+}
+GER = {
+	color = rgb { 106  119  89 }
+	color_ui = rgb { 106  119  89 }
+}

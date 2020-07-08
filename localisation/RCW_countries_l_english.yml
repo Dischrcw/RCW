@@ -27,9 +27,17 @@
  FRE:0 "Freikorps in the Baltic"
  FRE_DEF:0 "The Freikorps in the Baltic"
  FRE_ADJ:0 "Freikorp"
+
  LAN:0 "Baltische Landeswehr"
  LAN_DEF:0 "The Baltische Landeswher"
  LAN_ADJ:0 "Baltic German"
+ LAN_kurland:0 "Deutsch-Kurland"
+ LAN_kurland_DEF:0 "Der Deutsches-Kurland"
+ LAN_kurland_ADJ:0 "Deutsch-Kurlandisches"
+ LAN_latvia:0 "Deutsch-Latvien"
+ LAN_latvia_DEF:0 "Der Deutsches-Latvien"
+ LAN_latvia_ADJ:0 "Deutsch-Latviens"
+
  LSR:0 "Latvian Socialist Soviet Republic"
  LSR_DEF:0 "The Latvian Socialist Republic"
  LSR_ADJ:0 "Latvian"
