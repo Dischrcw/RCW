@@ -230,3 +230,19 @@
  SOV_vanguard_socialism:0 "Russian Soviet Federative Socialist Republic"
  SOV_vanguard_socialism_DEF:0 "The Russian Soviet Federative Socialist Republic"
  SOV_vanguard_socialism_ADJ:0 "Soviet"
+
+ LUX:0 "Luxembourg"
+ LUX_DEF:0 "Luxembourg"
+ LUX_ADJ:0 "Luxembourgish"
+
+ BEL:0 "Belgium"
+ BEL_DEF:0 "Belgium"
+ BEL_ADJ:0 "Belgian"
+
+ NET:0 "The Netherlands"
+ NET_DEF:0 "The Netherlands"
+ NET_ADJ:0 "Dutch"
+
+ ITA:0 "Italy"
+ ITA_DEF:0 "Italy"
+ ITA_ADJ:0 "Italian"

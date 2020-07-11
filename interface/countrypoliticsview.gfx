@@ -501,8 +501,8 @@ spriteTypes = {
 	}	
 
 	spriteType = {
-		name = "GFX_pol_piechart_overlay_63x63"
-		textureFile = "gfx//interface//pol_piechart_overlay_63x63.dds"
+		name = "GFX_pol_piechart_overlay_126x126"
+		textureFile = "gfx//interface//pol_piechart_overlay_126x126.dds"
 		alwaystransparent = yes			
 	}
 	
@@ -582,7 +582,7 @@ spriteTypes = {
 	
 	pieChartType = {
 		name = "GFX_political_chart"
-		size = 27
+		size = 54
 	}
 	
 	pieChartType = {
@@ -594,7 +594,7 @@ spriteTypes = {
 		name = "GFX_textured_pie_chart"
 		textureFile1 = "gfx/interface/ideas/idea_volunteer_only.dds"
 		textureFile2 = "gfx/interface/ideas/idea_extensive_conscription.dds"
-		size = 30
+		size = 60
 		rotation = 90
 		amount = 75
 	}	

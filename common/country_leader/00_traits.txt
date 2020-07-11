@@ -1,0 +1,128 @@
+leader_traits = {
+##Country Leaders##
+####I think, that they are needed for balancing game####
+	law_expert = {
+		random = no
+		stability_weekly = 0.002
+		political_power_gain = 0.12
+		political_advisor_cost_factor = -0.25
+		trade_laws_cost_factor = -0.25
+		mobilization_laws_cost_factor = -0.25
+		economy_cost_factor = -0.25
+		high_command_cost_factor = -0.25
+		air_chief_cost_factor = -0.25
+		army_chief_cost_factor = -0.25
+		navy_chief_cost_factor = -0.25
+		
+			ai_will_do = {
+			factor = 1
+		}
+}
+
+	foreign_intervent = {
+		random = no
+		stability_weekly = -0.001
+		war_support_factor = -0.1
+		resistance_damage_to_garrison = 0.20
+		army_attack_factor = 0.18
+		army_org_factor = 0.20
+		experience_gain_army = 0.03
+		planning_speed = -0.2
+		
+			ai_will_do = {
+			factor = 1
+		}
+}
+
+		anti-bolshevik_militarist = {
+		random = no
+		communism_drift = -0.05
+		experience_gain_army = 0.03
+		army_attack_factor = 0.08
+		defence_attack_factor = 0.15
+		army_morale_factor = 0.10
+		
+			ai_will_do = {
+			factor = 1
+		}
+	}
+##Advisors##
+ war_commissar = {
+	random = no
+	sprite = 13
+	
+	conscription = 0.01
+	experience_gain_army = 0.05
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+agriculture_comissar = {
+	random = no
+	sprite = 13
+	
+	stability_factor = 0.1
+	political_power_gain = 0.1
+		ai_will_do = {
+			factor = 1
+		}
+	
+	
+
+food_comissar = {
+	random = no
+	sprite = 13
+	
+	war_support_factor = 0.07
+	army_org_factor = 0.1
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+industry_comissar = {
+	random = no
+	sprite = 13
+	
+	production_speed_industrial_complex_factor = 0.18
+	
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+construction_and_public_works = {
+	random = no
+	sprite = 13
+	
+	production_speed_bunker_factor = 0.15
+	production_speed_infrastructure_factor = 0.2
+	
+	ai_will_do = {
+		factor = 1
+		}
+	}
+
+education_comissar = {
+	random = no
+	sprite = 13
+	
+	research_speed_factor = 0.05
+	
+		ai_will_do = {
+		factor = 1
+		}
+	}
+
+revolutionary_in_heart = {
+	random = no
+	sprite = 13
+	
+	drift_defence_factor = 0.15
+	
+		ai_will_do = {
+		factor = 1
+		}
+	}
+}

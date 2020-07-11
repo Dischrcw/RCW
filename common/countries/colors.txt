@@ -154,3 +154,19 @@ GER = {
 	color = rgb { 106  119  89 }
 	color_ui = rgb { 106  119  89 }
 }
+LUX = {
+	color = rgb { 65  175  179 }
+	color_ui = rgb { 65  175  179 }
+}
+BEL = {
+	color = rgb { 193  171  8 }
+	color_ui = rgb { 193  171  8 }
+}
+NET = {
+	color = rgb { 203  138  74 }
+	color_ui = rgb { 203  138  74 }
+}
+ITA = {
+	color = rgb { 67  127  63 }
+	color_ui = rgb { 67  127  63 }
+}
