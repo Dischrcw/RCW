@@ -170,3 +170,7 @@ ITA = {
 	color = rgb { 67  127  63 }
 	color_ui = rgb { 67  127  63 }
 }
+SPA = {
+	color = rgb { 242  205  94 }
+	color_ui = rgb { 242  205  94 }
+}
