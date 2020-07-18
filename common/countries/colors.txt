@@ -174,3 +174,11 @@ SPA = {
 	color = rgb { 242  205  94 }
 	color_ui = rgb { 242  205  94 }
 }
+POR = {
+	color = rgb { 39  116  70 }
+	color_ui = rgb { 39  116  70 }
+}
+AUS = {
+	color = rgb { 224  228  255 }
+	color_ui = rgb { 224  228  255 }
+}

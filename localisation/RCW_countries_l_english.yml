@@ -250,3 +250,11 @@
  SPA:0 "Spain"
  SPA_DEF:0 "Spain"
  SPA_ADJ:0 "Spanish"
+
+ POR:0 "Portugal"
+ POR_DEF:0 "Portugal"
+ POR_ADJ:0 "Portuguese"
+
+ AUS:0 "Austria"
+ AUS_DEF:0 "Austria"
+ AUS_ADJ:0 "Austrian"
