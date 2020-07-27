@@ -265,3 +265,11 @@
  CZE_czech:0 "Czech Republic"
  CZE_czech_DEF:0 "Czech Republic"
  CZE_czech_ADJ:0 "Czech"
+
+ HUN:0 "Hungarian People's Republic"
+ HUN_DEF:0 "The Hungarian People's Republic"
+ HUN_ADJ:0 "Hungarian"
+
+ ENG:0 "United Kingdom"
+ ENG_DEF:0 "The United Kingdom"
+ ENG_ADJ:0 "British"

@@ -190,3 +190,11 @@ YUG = {
 	color = rgb { 72  73  126 }
 	color_ui = rgb { 72  73  126 }
 }
+HUN = {
+	color = rgb { 249  126  98 }
+	color_ui = rgb { 249  126  98 }
+}
+ENG = {
+	color = rgb { 201  56  93 }
+	color_ui = rgb { 201  56  93 }
+}
