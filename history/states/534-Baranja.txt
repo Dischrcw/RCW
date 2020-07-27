@@ -1,0 +1,12 @@
+state={
+	id=534
+	name="STATE_534"
+	provinces={
+		6291 7782 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history = {
+		owner = YUG
+	}
+}

@@ -258,3 +258,10 @@
  AUS:0 "Austria"
  AUS_DEF:0 "Austria"
  AUS_ADJ:0 "Austrian"
+
+ CZE:0 "Czechoslovakia"
+ CZE_DEF:0 "Czechoslovakia"
+ CZE_ADJ:0 "Czechoslovakian"
+ CZE_czech:0 "Czech Republic"
+ CZE_czech_DEF:0 "Czech Republic"
+ CZE_czech_ADJ:0 "Czech"

@@ -182,3 +182,11 @@ AUS = {
 	color = rgb { 224  228  255 }
 	color_ui = rgb { 224  228  255 }
 }
+CZE = {
+	color = rgb { 54  167  156 }
+	color_ui = rgb { 54  167  156 }
+}
+YUG = {
+	color = rgb { 72  73  126 }
+	color_ui = rgb { 72  73  126 }
+}

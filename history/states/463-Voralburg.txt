@@ -1,13 +1,17 @@
+
 state={
 	id=463
 	name="STATE_463"
+
+	history={
+		owner = AUS
+		add_core_of = AUS
+
+	}
+
 	provinces={
-		4618 6208 7463 
+		4618 7463 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
-	history = {
-		owner = AUS
-		add_core_of = AUS
-	}
 }

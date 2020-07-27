@@ -1,9 +1,14 @@
+
 state={
 	id=180
 	name="STATE_180"
 	provinces={
-		1982 2371 4356 7903 
+		1982 2371 7903 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
+	history = {
+		owner = YUG
+		add_core_of = YUG
+	}
 }
