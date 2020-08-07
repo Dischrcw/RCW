@@ -273,3 +273,11 @@
  ENG:0 "United Kingdom"
  ENG_DEF:0 "The United Kingdom"
  ENG_ADJ:0 "British"
+
+ ROM:0 "Romania"
+ ROM_DEF:0 "Romania"
+ ROM_ADJ:0 "Romanian"
+
+ BUL:0 "Bulgaria"
+ BUL_DEF:0 "Bulgaria"
+ BUL_ADJ:0 "Bulgarian"

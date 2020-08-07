@@ -198,3 +198,11 @@ ENG = {
 	color = rgb { 201  56  93 }
 	color_ui = rgb { 201  56  93 }
 }
+ROM = {
+	color = rgb { 235  216  92 }
+	color_ui = rgb { 235  216  92 }
+}
+BUL = {
+	color = rgb { 66  113  69 }
+	color_ui = rgb { 66  113  69 }
+}
