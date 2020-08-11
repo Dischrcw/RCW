@@ -206,3 +206,7 @@ BUL = {
 	color = rgb { 66  113  69 }
 	color_ui = rgb { 66  113  69 }
 }
+GRE = {
+	color = rgb { 93  181  227 }
+	color_ui = rgb { 93  181  227 }
+}

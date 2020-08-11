@@ -1,6 +1,6 @@
-﻿capital = 116
+﻿capital = 107
 
-oob = "ENG_1919"
+oob = "GRE_1919"
 
 set_research_slots = 3
 
@@ -79,9 +79,9 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "David Lloyd George"
+	name = "Eleftherios Venizelos"
 	desc = ""
-	picture = "gfx/leaders/ENG/portrait_ENG_david_lloyd_george.dds"
+	picture = "gfx/leaders/GRE/portrait_GRE_eleftherios_venizelos.dds"
 	expire = "1953.3.1"
 	ideology = liberalism
 	traits = {
