@@ -210,3 +210,7 @@ GRE = {
 	color = rgb { 93  181  227 }
 	color_ui = rgb { 93  181  227 }
 }
+TUR = {
+	color = rgb { 157  7  17 }
+	color_ui = rgb { 157  7  17 }
+}

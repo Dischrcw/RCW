@@ -291,3 +291,10 @@
  GRE_liberalism:0 "Kingdom of Greece"
  GRE_liberalism_DEF:0 "The Kingdom of Greece"
  GRE_liberalism_ADJ:0 "Greek"
+
+ TUR:0 "Turkey"
+ TUR_DEF:0 "Turkey"
+ TUR_ADJ:0 "Turkish"
+ TUR_autocracy:0 "Ottoman Empire"
+ TUR_autocracy_DEF:0 "The Ottoman Empire"
+ TUR_autocracy_ADJ:0 "Turkish"

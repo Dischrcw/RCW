@@ -1,14 +1,13 @@
-
 state={
-	id=176
-	name="STATE_176"
+	id=537
+	name="STATE_537"
 	provinces={
-		5518 6177 8282 8289 8298 
+		2116 4206 6302 8262 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
 	history={
-		owner = TUR
+		owner = ENG
 		add_core_of = TUR
 	}
 }
