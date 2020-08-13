@@ -67,7 +67,7 @@ set_popularities = {
 
 create_country_leader = {
 	name = "Pyotr Ivanovich Stuchka"
-	desc = ""
+	desc = "POLITICS_PETERIS_STUCKA_DESC"
 	picture = "GFX/leaders/LSR/portrait_LSR_peteris_stuchka.dds"
 	expire = "1933.1.1"
 	ideology = vanguard_socialism

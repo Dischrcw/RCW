@@ -1,8 +1,16 @@
+
 state={
 	id=23
 	name="STATE_23"
+
+	history={
+		owner = ITA
+		add_core_of = ITA
+
+	}
+
 	provinces={
-		3414 5527 5682 6072 7637 7648 7654 
+		5527 5682 6072 7637 7648 7654 9314 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

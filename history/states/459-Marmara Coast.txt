@@ -1,9 +1,14 @@
+
 state={
 	id=459
 	name="STATE_459"
 	provinces={
-		2116 2780 2850 4045 4206 5550 5857 6302 8262 8285 8294 8310 8311 8319 8327 8336 9338 
+		2780 2850 4045 5550 5857 8285 8294 8310 8311 8319 8327 8336 9338 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
+	history={
+		owner = TUR
+		add_core_of = TUR
+	}
 }

@@ -1,9 +1,14 @@
+
 state={
 	id=469
 	name="STATE_469"
 	provinces={
-		3517 5807 9317 9318 9319 
+		3517 5807 7789 7796 9317 9318 9319 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
+	history = {
+		owner = ITA
+		add_core_of = ITA
+	}
 }

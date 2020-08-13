@@ -27,9 +27,17 @@
  FRE:0 "Freikorps in the Baltic"
  FRE_DEF:0 "The Freikorps in the Baltic"
  FRE_ADJ:0 "Freikorp"
+
  LAN:0 "Baltische Landeswehr"
  LAN_DEF:0 "The Baltische Landeswher"
  LAN_ADJ:0 "Baltic German"
+ LAN_kurland:0 "Deutsch-Kurland"
+ LAN_kurland_DEF:0 "Der Deutsches-Kurland"
+ LAN_kurland_ADJ:0 "Deutsch-Kurlandisches"
+ LAN_latvia:0 "Deutsch-Latvien"
+ LAN_latvia_DEF:0 "Der Deutsches-Latvien"
+ LAN_latvia_ADJ:0 "Deutsch-Latviens"
+
  LSR:0 "Latvian Socialist Soviet Republic"
  LSR_DEF:0 "The Latvian Socialist Republic"
  LSR_ADJ:0 "Latvian"
@@ -222,3 +230,71 @@
  SOV_vanguard_socialism:0 "Russian Soviet Federative Socialist Republic"
  SOV_vanguard_socialism_DEF:0 "The Russian Soviet Federative Socialist Republic"
  SOV_vanguard_socialism_ADJ:0 "Soviet"
+
+ LUX:0 "Luxembourg"
+ LUX_DEF:0 "Luxembourg"
+ LUX_ADJ:0 "Luxembourgish"
+
+ BEL:0 "Belgium"
+ BEL_DEF:0 "Belgium"
+ BEL_ADJ:0 "Belgian"
+
+ NET:0 "The Netherlands"
+ NET_DEF:0 "The Netherlands"
+ NET_ADJ:0 "Dutch"
+
+ ITA:0 "Italy"
+ ITA_DEF:0 "Italy"
+ ITA_ADJ:0 "Italian"
+
+ SPA:0 "Spain"
+ SPA_DEF:0 "Spain"
+ SPA_ADJ:0 "Spanish"
+
+ POR:0 "Portugal"
+ POR_DEF:0 "Portugal"
+ POR_ADJ:0 "Portuguese"
+
+ AUS:0 "Austria"
+ AUS_DEF:0 "Austria"
+ AUS_ADJ:0 "Austrian"
+
+ CZE:0 "Czechoslovakia"
+ CZE_DEF:0 "Czechoslovakia"
+ CZE_ADJ:0 "Czechoslovakian"
+ CZE_czech:0 "Czech Republic"
+ CZE_czech_DEF:0 "Czech Republic"
+ CZE_czech_ADJ:0 "Czech"
+
+ HUN:0 "Hungarian People's Republic"
+ HUN_DEF:0 "The Hungarian People's Republic"
+ HUN_ADJ:0 "Hungarian"
+
+ ENG:0 "United Kingdom"
+ ENG_DEF:0 "The United Kingdom"
+ ENG_ADJ:0 "British"
+ ENG_liberalism:0 "United Kingdom"
+ ENG_liberalism_DEF:0 "The United Kingdom"
+ ENG_liberalism_ADJ:0 "British"
+
+ ROM:0 "Romania"
+ ROM_DEF:0 "Romania"
+ ROM_ADJ:0 "Romanian"
+
+ BUL:0 "Bulgaria"
+ BUL_DEF:0 "Bulgaria"
+ BUL_ADJ:0 "Bulgarian"
+
+ GRE:0 "Greece"
+ GRE_DEF:0 "Greece"
+ GRE_ADJ:0 "Greek"
+ GRE_liberalism:0 "Kingdom of Greece"
+ GRE_liberalism_DEF:0 "The Kingdom of Greece"
+ GRE_liberalism_ADJ:0 "Greek"
+
+ TUR:0 "Turkey"
+ TUR_DEF:0 "Turkey"
+ TUR_ADJ:0 "Turkish"
+ TUR_autocracy:0 "Ottoman Empire"
+ TUR_autocracy_DEF:0 "The Ottoman Empire"
+ TUR_autocracy_ADJ:0 "Turkish"

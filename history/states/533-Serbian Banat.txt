@@ -1,0 +1,13 @@
+state={
+	id=533
+	name="STATE_533"
+	provinces={
+		5988 6091 7858 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history = {
+		owner = YUG
+		add_core_of = YUG
+	}
+}

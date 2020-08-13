@@ -146,3 +146,71 @@ SOV = {
 	color = rgb { 184  18  49 }
 	color_ui = rgb { 184  18  49 }
 }
+LAN = {
+	color = rgb { 137 144 153 } 
+	color_ui = rgb { 137 144 153 } 
+}
+GER = {
+	color = rgb { 106  119  89 }
+	color_ui = rgb { 106  119  89 }
+}
+LUX = {
+	color = rgb { 65  175  179 }
+	color_ui = rgb { 65  175  179 }
+}
+BEL = {
+	color = rgb { 193  171  8 }
+	color_ui = rgb { 193  171  8 }
+}
+NET = {
+	color = rgb { 203  138  74 }
+	color_ui = rgb { 203  138  74 }
+}
+ITA = {
+	color = rgb { 67  127  63 }
+	color_ui = rgb { 67  127  63 }
+}
+SPA = {
+	color = rgb { 242  205  94 }
+	color_ui = rgb { 242  205  94 }
+}
+POR = {
+	color = rgb { 39  116  70 }
+	color_ui = rgb { 39  116  70 }
+}
+AUS = {
+	color = rgb { 224  228  255 }
+	color_ui = rgb { 224  228  255 }
+}
+CZE = {
+	color = rgb { 54  167  156 }
+	color_ui = rgb { 54  167  156 }
+}
+YUG = {
+	color = rgb { 72  73  126 }
+	color_ui = rgb { 72  73  126 }
+}
+HUN = {
+	color = rgb { 249  126  98 }
+	color_ui = rgb { 249  126  98 }
+}
+ENG = {
+	color = rgb { 201  56  93 }
+	color_ui = rgb { 201  56  93 }
+}
+ROM = {
+	color = rgb { 235  216  92 }
+	color_ui = rgb { 235  216  92 }
+}
+BUL = {
+	color = rgb { 66  113  69 }
+	color_ui = rgb { 66  113  69 }
+}
+GRE = {
+	color = rgb { 93  181  227 }
+	color_ui = rgb { 93  181  227 }
+}
+TUR = {
+	color = rgb { 157  7  17 }
+	color_ui = rgb { 157  7  17 }
+}

@@ -1,0 +1,13 @@
+state={
+	id=537
+	name="STATE_537"
+	provinces={
+		2116 4206 6302 8262 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history={
+		owner = ENG
+		add_core_of = TUR
+	}
+}
