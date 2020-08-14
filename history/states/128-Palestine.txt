@@ -1,13 +1,17 @@
+
 state={
 	id=128
 	name="STATE_128"
+
+	history={
+		owner = ENG
+		add_core_of = ENG
+
+	}
+
 	provinces={
-		1808 3929 4063 4221 6224 6617 8737 8745 8763 10938 10941 
+		1808 3929 4221 6224 6617 8745 8763 10938 10941 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
-	history = {
-		owner = ENG
-		add_core_of = ENG
-	}
 }
