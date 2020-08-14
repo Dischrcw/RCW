@@ -1,13 +1,17 @@
+
 state={
 	id=457
 	name="STATE_457"
-	provinces={
-		114 1058 2301 3442 4249 5650 6756 8520 8549 8551 
-	}
-	manpower=0
-	buildings_max_level_factor=1.000
+
 	history={
 		owner = TUR
 		add_core_of = TUR
+
 	}
+
+	provinces={
+		114 1058 2301 3442 3453 4249 5650 6515 6756 8520 8549 8551 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
 }

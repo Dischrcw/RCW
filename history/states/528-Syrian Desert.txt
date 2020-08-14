@@ -1,13 +1,17 @@
+
 state={
 	id=528
 	name="STATE_528"
+
+	history={
+		owner = ENG
+		add_core_of = ENG
+
+	}
+
 	provinces={
-		64 347 550 1718 2693 4021 4090 4337 4347 6112 8707 8713 8727 8730 8753 8771 8773 8775 
+		64 347 550 1718 2693 4021 4090 4337 4347 6112 8678 8707 8713 8727 8730 8753 8771 8773 8775 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
-	history = {
-		owner = ENG
-		add_core_of = ENG
-	}
 }
