@@ -298,3 +298,10 @@
  TUR_autocracy:0 "Ottoman Empire"
  TUR_autocracy_DEF:0 "The Ottoman Empire"
  TUR_autocracy_ADJ:0 "Turkish"
+
+ SYR:0 "Syria"
+ SYR_DEF:0 "Syria"
+ SYR_ADJ:0 "Syrian"
+ SYR_autocracy:0 "Emirate of Syria"
+ SYR_autocracy_DEF:0 "The Emirate of Syria"
+ SYR_autocracy_ADJ:0 "Syrian"

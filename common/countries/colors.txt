@@ -214,3 +214,7 @@ TUR = {
 	color = rgb { 157  7  17 }
 	color_ui = rgb { 157  7  17 }
 }
+SYR = {
+	color = rgb { 129  77  8 }
+	color_ui = rgb { 129  77  8 }
+}
