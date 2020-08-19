@@ -1,0 +1,483 @@
+focus_tree = {
+	id = FIN
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = FIN
+		}
+	}
+	#Focus for Military Control
+	focus = {
+		id = FIN_military_control
+		icon = GFX_goal_unknown
+		x = 14
+		y = 2
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = FIN_mannerheim_proves_victorious }
+		mutually_exclusive = { focus = FIN_bring_back_the_monarchy }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Finnish Jager Traning
+	focus = {
+		id = FIN_finnish_jager_traning
+		icon = GFX_goal_unknown
+		x = 34
+		y = 1
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = FIN_create_a_centralized_military }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Finnish Elections of 1919
+	focus = {
+		id = FIN_finnish_elections_of_1919
+		icon = GFX_goal_unknown
+		x = 6
+		y = 0
+		cost = 10
+		available_if_capitulated = yes
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for SDP Victory
+	focus = {
+		id = FIN_sdp_victory
+		icon = GFX_goal_unknown
+		x = 0
+		y = 1
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = FIN_finnish_elections_of_1919 }
+		mutually_exclusive = { 
+			focus = FIN_agrarian_victory 
+		}
+		mutually_exclusive = { 
+			focus = FIN_mannerheim_proves_victorious 
+		}
+		mutually_exclusive = { 
+			focus = FIN_ 
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Agrarian Victory
+	focus = {
+		id = FIN_agrarian_victory
+		icon = GFX_goal_unknown
+		x = 6
+		y = 1
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = FIN_finnish_elections_of_1919 }
+		mutually_exclusive = { 
+			focus = FIN_mannerheim_proves_victorious 
+		}
+		mutually_exclusive = { 
+			focus = FIN_sdp_victory 
+		}
+		mutually_exclusive = { 
+			focus = FIN_ 
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Mannerheim proves victorious
+	focus = {
+		id = FIN_mannerheim_proves_victorious
+		icon = GFX_goal_unknown
+		x = 16
+		y = 1
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = FIN_finnish_elections_of_1919 }
+		mutually_exclusive = { 
+			focus = FIN_sdp_victory 
+		}
+		mutually_exclusive = { 
+			focus = FIN_agrarian_victory 
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for A Portbound Navy
+	focus = {
+		id = FIN_a_portbound_navy
+		icon = GFX_goal_unknown
+		x = 30
+		y = 1
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = FIN_keep_the_white_guard }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Denounce Lenin's Revolution
+	focus = {
+		id = FIN_denounce_lenins_revolution
+		icon = GFX_goal_unknown
+		x = 0
+		y = 2
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = FIN_sdp_victory }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Reinvision Finland
+	focus = {
+		id = FIN_reinvision_finland
+		icon = GFX_goal_unknown
+		x = 4
+		y = 2
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = FIN_agrarian_victory }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Form anti-Red Militias
+	focus = {
+		id = FIN_form_antired_militias
+		icon = GFX_goal_unknown
+		x = 32
+		y = 1
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = FIN_keep_the_white_guard }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for German Planes
+	focus = {
+		id = FIN_german_planes
+		icon = GFX_goal_unknown
+		x = 28
+		y = 1
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = FIN_keep_the_white_guard }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for The White Sea is Our Destiney
+	focus = {
+		id = FIN_the_white_sea_is_our_destiney
+		icon = GFX_goal_unknown
+		x = 12
+		y = 7
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { 
+			focus = FIN_request_for_german_support 
+		}
+		prerequisite = { 
+			focus = FIN_denounce_the_north_russian_government 
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for An Airforce that Needs Planes
+	focus = {
+		id = FIN_an_airforce_that_needs_planes
+		icon = GFX_goal_unknown
+		x = 38
+		y = 1
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = FIN_create_a_centralized_military }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Keep the White Guard
+	focus = {
+		id = FIN_keep_the_white_guard
+		icon = GFX_goal_unknown
+		x = 31
+		y = 0
+		cost = 10
+		available_if_capitulated = yes
+		mutually_exclusive = { focus = FIN_create_a_centralized_military }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for place holder
+	focus = {
+		id = FIN_place_holder
+		icon = GFX_goal_unknown
+		x = 40
+		y = 40
+		cost = 10
+		available_if_capitulated = yes
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Bring Back the Monarchy
+	focus = {
+		id = FIN_bring_back_the_monarchy
+		icon = GFX_goal_unknown
+		x = 18
+		y = 2
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = FIN_mannerheim_proves_victorious }
+		mutually_exclusive = { focus = FIN_military_control }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Execute Red Guard Prisoners
+	focus = {
+		id = FIN_execute_red_guard_prisoners
+		icon = GFX_goal_unknown
+		x = 11
+		y = 3
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = FIN_military_control }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Proclaim Martial Law
+	focus = {
+		id = FIN_proclaim_martial_law
+		icon = GFX_goal_unknown
+		x = 13
+		y = 3
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = FIN_military_control }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Rehabilitate Red Guard Prisoners
+	focus = {
+		id = FIN_rehabilitate_red_guard_prisoners
+		icon = GFX_goal_unknown
+		x = 17
+		y = 3
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = FIN_bring_back_the_monarchy }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Allow Small Forms of Capitalisim
+	focus = {
+		id = FIN_allow_small_forms_of_capitalisim
+		icon = GFX_goal_unknown
+		x = 19
+		y = 3
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = FIN_bring_back_the_monarchy }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Anounce Militrastic Ambitions
+	focus = {
+		id = FIN_anounce_militrastic_ambitions
+		icon = GFX_goal_unknown
+		x = 12
+		y = 4
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { 
+			focus = FIN_execute_red_guard_prisoners 
+		}
+		prerequisite = { 
+			focus = FIN_proclaim_martial_law 
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Denounce the Leftists
+	focus = {
+		id = FIN_denounce_the_leftists
+		icon = GFX_goal_unknown
+		x = 18
+		y = 4
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { 
+			focus = FIN_rehabilitate_red_guard_prisoners 
+		}
+		prerequisite = { 
+			focus = FIN_allow_small_forms_of_capitalisim 
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for We Must act Quickly
+	focus = {
+		id = FIN_we_must_act_quickly
+		icon = GFX_goal_unknown
+		x = 11
+		y = 5
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = FIN_anounce_militrastic_ambitions }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for The Karelians Need our Help
+	focus = {
+		id = FIN_the_karelians_need_our_help
+		icon = GFX_goal_unknown
+		x = 13
+		y = 5
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = FIN_anounce_militrastic_ambitions }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Request for German Support
+	focus = {
+		id = FIN_request_for_german_support
+		icon = GFX_goal_unknown
+		x = 11
+		y = 6
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = FIN_we_must_act_quickly }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Denounce the North Russian Government
+	focus = {
+		id = FIN_denounce_the_north_russian_government
+		icon = GFX_goal_unknown
+		x = 13
+		y = 6
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = FIN_the_karelians_need_our_help }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Create a Centralized Military
+	focus = {
+		id = FIN_create_a_centralized_military
+		icon = GFX_goal_unknown
+		x = 35
+		y = 0
+		cost = 10
+		available_if_capitulated = yes
+		mutually_exclusive = { focus = FIN_keep_the_white_guard }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for A Sea Going Navy
+	focus = {
+		id = FIN_a_sea_going_navy
+		icon = GFX_goal_unknown
+		x = 36
+		y = 1
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = FIN_create_a_centralized_military }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Support the North Russian Government
+	focus = {
+		id = FIN_support_the_north_russian_government
+		icon = GFX_goal_unknown
+		x = 8
+		y = 2
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = FIN_agrarian_victory }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Reconstruct Finland
+	focus = {
+		id = FIN_reconstruct_finland
+		icon = GFX_goal_unknown
+		x = 4
+		y = 3
+		cost = 10
+		available_if_capitulated = yes
+		prerequisite = { focus = FIN_reinvision_finland }
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	#Focus for Industralize Finland
+	focus = {
+		id = FIN_industralize_finland
+		icon = GFX_goal_unknown
+		x = 27
+		y = 3
+		cost = 10
+		available_if_capitulated = yes
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+#End of focuses 
+ }
