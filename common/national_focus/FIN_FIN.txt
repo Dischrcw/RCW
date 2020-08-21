@@ -319,7 +319,7 @@ focus_tree = {
 	#Focus for Anounce Militrastic Ambitions
 	focus = {
 		id = FIN_anounce_militrastic_ambitions
-		icon = GFX_goal_unknown
+		icon = GFX_focus_fin_heimosodat
 		x = 12
 		y = 4
 		cost = 10
