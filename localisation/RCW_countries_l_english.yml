@@ -305,3 +305,10 @@
  SYR_autocracy:0 "Emirate of Syria"
  SYR_autocracy_DEF:0 "The Emirate of Syria"
  SYR_autocracy_ADJ:0 "Syrian"
+
+ DEN:0 "Denmark"
+ DEN_DEF:0 "Denmark"
+ DEN_ADJ:0 "Danish"
+ DEN_liberalism:0 "Kingdom of Denmark"
+ DEN_liberalism_DEF:0 "The Kingdom of Denmark"
+ DEN_liberalism_ADJ:0 "Danish"

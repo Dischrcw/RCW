@@ -218,3 +218,7 @@ SYR = {
 	color = rgb { 129  77  8 }
 	color_ui = rgb { 129  77  8 }
 }
+DEN =  {
+	color = rgb { 153  116  93 }
+	color_ui = rgb { 153  116  93 }
+}
