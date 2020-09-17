@@ -222,3 +222,7 @@ DEN =  {
 	color = rgb { 153  116  93 }
 	color_ui = rgb { 153  116  93 }
 }
+SWE = {
+	color = rgb { 36  132  247 }
+	color_ui = rgb { 36  132  247 }
+}
