@@ -61,29 +61,29 @@ if = {
 }
 
 set_popularities = {
-	autocracy = 12
+	autocracy = 42
 	vanguard_socialism = 8
 	anarchism = 3
 	nationalism = 14
 	democratic_socialism = 5
 	liberalism = 16
-	conservatism = 42
+	conservatism = 12
 	social_democracy = 0
 }
 
 set_politics = {
-	ruling_party = conservatism
+	ruling_party = autocracy
 	last_election = "1932.5.21"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Józef Piłsudski"
+	name = "Charlotte I"
 	desc = ""
-	picture = "gfx/leaders/POL/portrait_POL_jozef_pilsudski.dds"
+	picture = "gfx/leaders/LUX/portrait_LUX_charlotte.dds"
 	expire = "1953.3.1"
-	ideology = conservatism
+	ideology = autocracy
 	traits = {
 		
 	}

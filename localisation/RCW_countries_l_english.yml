@@ -326,3 +326,10 @@
  NOR_liberalism:0 "Kingdom of Norway"
  NOR_liberalism_DEF:0 "The Kingdom of Norway"
  NOR_liberalism_ADJ:0 "Norwegian"
+
+ GER:0 "Germany"
+ GER_DEF:0 "Germany"
+ GER_ADJ:0 "German"
+ GER_social_democracy:0 "Weimar Republic"
+ GER_social_democracy_DEF:0 "The Weimar Republic"
+ GER_social_democracy_ADJ:0 "German"
