@@ -1,6 +1,6 @@
 ﻿capital = 6
 
-oob = "GER_1919"
+oob = "AUS_1919"
 
 set_research_slots = 3
 
@@ -67,23 +67,23 @@ set_popularities = {
 	nationalism = 14
 	democratic_socialism = 5
 	liberalism = 16
-	conservatism = 42
-	social_democracy = 0
+	conservatism = 10
+	social_democracy = 32
 }
 
 set_politics = {
-	ruling_party = conservatism
+	ruling_party = social_democracy
 	last_election = "1932.5.21"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Józef Piłsudski"
+	name = "Karl Renner"
 	desc = ""
-	picture = "gfx/leaders/POL/portrait_POL_jozef_pilsudski.dds"
+	picture = "gfx/leaders/AUS/portrait_AUS_karl_renner.dds"
 	expire = "1953.3.1"
-	ideology = conservatism
+	ideology = social_democracy
 	traits = {
 		
 	}
