@@ -64,25 +64,25 @@ set_popularities = {
 	autocracy = 12
 	vanguard_socialism = 8
 	anarchism = 3
-	nationalism = 14
+	nationalism = 20
 	democratic_socialism = 5
-	liberalism = 16
-	conservatism = 42
+	liberalism = 26
+	conservatism = 26
 }
 
 set_politics = {
-	ruling_party = conservatism
+	ruling_party = nationalism
 	last_election = "1932.5.21"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Józef Piłsudski"
+	name = "Karel Kramář"
 	desc = ""
-	picture = "gfx/leaders/POL/portrait_POL_jozef_pilsudski.dds"
+	picture = "gfx/leaders/CZE/portrait_CZE_karel_kramar.dds"
 	expire = "1953.3.1"
-	ideology = conservatism
+	ideology = nationalism
 	traits = {
 		
 	}

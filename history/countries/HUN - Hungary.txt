@@ -61,28 +61,29 @@ if = {
 }
 
 set_popularities = {
-	autocracy = 12
+	autocracy = 8
 	vanguard_socialism = 8
 	anarchism = 3
-	nationalism = 14
-	democratic_socialism = 5
-	liberalism = 16
-	conservatism = 42
+	nationalism = 18
+	democratic_socialism = 11
+	liberalism = 10
+	conservatism = 22
+	social_democracy = 20
 }
 
 set_politics = {
-	ruling_party = conservatism
+	ruling_party = social_democracy
 	last_election = "1932.5.21"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Józef Piłsudski"
+	name = "Mihály Károlyi"
 	desc = ""
-	picture = "gfx/leaders/POL/portrait_POL_jozef_pilsudski.dds"
+	picture = "gfx/leaders/HUN/portrait_HUN_mihaly_karolyi.dds"
 	expire = "1953.3.1"
-	ideology = conservatism
+	ideology = social_democracy
 	traits = {
 		
 	}

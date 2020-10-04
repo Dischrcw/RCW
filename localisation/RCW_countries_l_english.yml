@@ -258,6 +258,12 @@
  AUS:0 "Austria"
  AUS_DEF:0 "Austria"
  AUS_ADJ:0 "Austrian"
+ AUS_social_democracy:0 "Republic of German-Austria"
+ AUS_social_democracy_DEF:0 "The Republic of German-Austria"
+ AUS_social_democracy_ADJ:0 "Austrian"
+ AUS_socdem_ind:0 "Republic of Austria"
+ AUS_socdem_ind_DEF:0 "The Republic of Austria"
+ AUS_socdem_ind_ADJ:0 "Austrian"
 
  CZE:0 "Czechoslovakia"
  CZE_DEF:0 "Czechoslovakia"
