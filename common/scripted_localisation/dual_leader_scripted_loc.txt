@@ -1,0 +1,191 @@
+# For the Duel Leader Title, Leader Names, and custom portrait!
+
+defined_text = {
+	name = GetFirstTitle
+
+	text = {
+		trigger = {
+			tag = SOV
+			has_government = vanguard_socialism
+		}
+		localization_key = SOV_CHAIRMAN_COMMISSARS_TITLE
+	}
+
+	text = {
+		trigger = {
+			tag = SOV
+			has_government = democratic_socialism
+		}
+		localization_key = SOV_CHAIRMAN_COMMISSARS_TITLE
+	}
+
+	text = {
+		trigger = {
+			tag = ROM
+			has_government = neutrality
+		}
+		localization_key = ROM_PRIME_MINISTER_TITLE
+	}
+
+	text = {
+		trigger = {
+			original_tag = ENG
+			has_government = liberalism
+		}
+		localization_key = ENG_PRIME_MINISTER_TITLE
+	}
+	text = {
+		localization_key = DEFAULT_FIRST_TITLE
+	}
+
+	text = {
+		trigger = {
+			original_tag = FRA
+		}
+		localization_key = ENG_PRIME_MINISTER_TITLE
+	}
+
+	text = {
+		localization_key = DEFAULT_FIRST_TITLE
+	}
+
+}
+
+defined_text = {
+	name = GetSecondTitle
+
+	text = {
+		trigger = {
+			tag = ROM
+			has_government = neutrality
+		}
+		localization_key = ROM_MONARCH_TITLE
+	}
+
+text = {
+		trigger = {
+			tag = SOV
+			has_government = vanguard_socialism
+		}
+		localization_key = SOV_CHARIMAN_COMMITTEE_TITLE
+	}
+
+	text = {
+		trigger = {
+			tag = ENG
+		}
+		localization_key = ENG_KING_TITLE
+	}
+
+	text = {
+		trigger = {
+			tag = FRA
+		}
+		localization_key = FRA_PRESIDENT_TITLE
+	}
+
+}
+
+defined_text = {
+	name = GetDualLeaderName
+
+	text = {
+		trigger = {
+			tag = ROM
+			has_government = neutrality
+		}
+		localization_key = ROM_CAROL_II
+	}
+
+	text = {
+		trigger = {
+			tag = SOV
+			has_government = vanguard_socialism
+		}
+		localization_key = SOV_YAKOV_SVERDLOV
+	}
+
+	text = {
+		trigger = {
+			original_tag = ENG
+		}
+		localization_key = ENG_GEORGE_V
+	}
+
+	text = {
+		trigger = {
+			original_tag = FRA
+		}
+		localization_key = FRA_RAYMOND_POINCARE
+	}
+
+	text = {
+		localization_key = DEFAULT_TITLE
+	}
+}
+
+defined_text = {
+    name = GetDualLeaderPortrait
+
+	text = {
+		trigger = {
+			tag = ROM
+			has_government = neutrality
+		}
+		localization_key = GFX_ROM_Carol_II
+	}
+
+	text = {
+		trigger = {
+			tag = SOV
+			has_government = vanguard_socialism
+		}
+		localization_key = GFX_SOV_YAKOV_SVERDLOV
+	}
+
+    text = {
+        trigger = {
+			original_tag = ENG
+        }
+        localization_key = "GFX_ENG_George_V"
+	}
+
+	text = {
+        trigger = {
+			original_tag = FRA
+        }
+        localization_key = "GFX_FRA_RAYMOND_POINCARE"
+	}
+
+	text = {
+		localization_key = "GFX_portrait_bg_blank"
+	}
+}
+
+defined_text = {
+    name = GetDualLeaderDesc
+    
+    text = {
+        trigger = {
+			original_tag = ENG
+			ENG = {
+				has_idea = george_v
+			}
+        }
+        localization_key = "DESCRIPTION_TEST"
+	}
+}
+
+defined_text = {
+    name = GetFirstLeaderDesc
+    
+    text = {
+        trigger = {
+			original_tag = ENG
+			ENG = {
+				has_idea = george_v
+			}
+        }
+        localization_key = "FIRST_LEADER_DESC_TEST"
+	}
+}
