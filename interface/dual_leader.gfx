@@ -58,4 +58,9 @@ spriteTypes = {
 		name = "GFX_FRA_RAYMOND_POINCARE"
 		texturefile = "gfx/dual_leaders/FRA/portrait_FRA_raymond_poincare.dds"
 	}
+
+	spriteType = {
+		name = "GFX_BEL_ALBERT_I"
+		texturefile = "gfx/dual_leaders/BEL/portrait_BEL_albert_i.dds"
+	}
 }

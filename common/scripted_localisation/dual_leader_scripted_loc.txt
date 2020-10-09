@@ -46,6 +46,13 @@ defined_text = {
 	}
 
 	text = {
+		trigger = {
+			tag = BEL
+		}
+		localization_key = ENG_PRIME_MINISTER_TITLE
+	}
+
+	text = {
 		localization_key = DEFAULT_FIRST_TITLE
 	}
 
@@ -84,6 +91,13 @@ text = {
 		localization_key = FRA_PRESIDENT_TITLE
 	}
 
+	text = {
+		trigger = {
+			tag = BEL
+		}
+		localization_key = BEL_KING_TITLE
+	}
+
 }
 
 defined_text = {
@@ -117,6 +131,13 @@ defined_text = {
 			original_tag = FRA
 		}
 		localization_key = FRA_RAYMOND_POINCARE
+	}
+
+	text = {
+		trigger = {
+			original_tag = BEL
+		}
+		localization_key = BEL_ALBERT_I
 	}
 
 	text = {
@@ -155,6 +176,13 @@ defined_text = {
 			original_tag = FRA
         }
         localization_key = "GFX_FRA_RAYMOND_POINCARE"
+	}
+
+	text = {
+        trigger = {
+			tag = BEL
+        }
+        localization_key = "GFX_BEL_ALBERT_I"
 	}
 
 	text = {
