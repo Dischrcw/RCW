@@ -53,6 +53,20 @@ defined_text = {
 	}
 
 	text = {
+		trigger = {
+			tag = SPA
+		}
+		localization_key = ENG_PRIME_MINISTER_TITLE
+	}
+
+	text = {
+		trigger = {
+			tag = POR
+		}
+		localization_key = "ENG_PRIME_MINISTER_TITLE"
+	}
+
+	text = {
 		localization_key = DEFAULT_FIRST_TITLE
 	}
 
@@ -98,6 +112,20 @@ text = {
 		localization_key = BEL_KING_TITLE
 	}
 
+	text = {
+		trigger = {
+			tag = SPA
+		}
+		localization_key = SPA_KING_TITLE
+	}
+
+	text = {
+		trigger = {
+			tag = POR
+		}
+		localization_key = "FRA_PRESIDENT_TITLE"
+	}
+
 }
 
 defined_text = {
@@ -138,6 +166,20 @@ defined_text = {
 			original_tag = BEL
 		}
 		localization_key = BEL_ALBERT_I
+	}
+
+	text = {
+		trigger = {
+			original_tag = SPA
+		}
+		localization_key = SPA_ALFONSO_XIII
+	}
+
+	text = {
+		trigger = {
+			original_tag = POR
+		}
+		localization_key = "POR_JOAO_CANTO"
 	}
 
 	text = {
@@ -184,6 +226,21 @@ defined_text = {
         }
         localization_key = "GFX_BEL_ALBERT_I"
 	}
+
+	text = {
+        trigger = {
+			tag = SPA
+        }
+        localization_key = "GFX_SPA_ALFONSO_XIII"
+	}
+
+	text = {
+        trigger = {
+			tag = POR
+        }
+        localization_key = "GFX_POR_JOAO_CANTO"
+	}
+
 
 	text = {
 		localization_key = "GFX_portrait_bg_blank"

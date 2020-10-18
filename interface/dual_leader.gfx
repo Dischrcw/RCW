@@ -63,4 +63,14 @@ spriteTypes = {
 		name = "GFX_BEL_ALBERT_I"
 		texturefile = "gfx/dual_leaders/BEL/portrait_BEL_albert_i.dds"
 	}
+
+	spriteType = {
+		name = "GFX_SPA_ALFONSO_XIII"
+		texturefile = "gfx/dual_leaders/SPA/portrait_SPA_alfonso_xiii.dds"
+	}
+
+	spriteType = {
+		name = "GFX_POR_JOAO_CANTO"
+		texturefile = "gfx/dual_leaders/POR/portrait_POR_joao_canto.dds"
+	}
 }
