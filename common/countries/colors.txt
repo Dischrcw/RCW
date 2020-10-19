@@ -26,8 +26,8 @@ TRC = {
 }
 
 SVU = {
-	color = rgb { 184  18  49 }
-	color_ui = rgb { 184  18  49 }
+	color = rgb { 135  7  7 }
+	color_ui = rgb { 135  7  7 }
 }
 
 MAK = {
@@ -46,8 +46,8 @@ PNR = {
 }	
 
 LBY = {
-	color = rgb { 178 34 52 }
-	color_ui = rgb { 178 34 52 }
+	color = rgb { 135  7  7 }
+	color_ui = rgb { 135  7  7 }
 }
 
 POL = {
@@ -63,8 +63,8 @@ OKH = {
 	color_ui = rgb { 200 75 15 }
 }
 CHU = {
-	color = rgb { 200 15 15 }
-	color_ui = rgb { 200 15 15 }
+	color = rgb { 135  7  7 }
+	color_ui = rgb { 135  7  7 }
 }
 ACD = {
 	color = rgb { 194 157 54 }
@@ -103,8 +103,8 @@ ARM = {
 	color_ui = rgb { 176 76 42 }
 }
 LSR = {
-	color = rgb { 184  18  49 }
-	color_ui = rgb { 184  18  49 }
+	color = rgb { 135  7  7 }
+	color_ui = rgb { 135  7  7 }
 }
 MNT = {
 	color = rgb { 16  109  31 }
@@ -135,16 +135,16 @@ DON = {
 	color_ui = rgb { 173  146  0 }
 }
 PAG = {
-	color = rgb { 50 50 150 }
-	color_ui = rgb { 50 50 150 }
+	color = rgb { 15 140 21 }
+	color_ui = rgb { 15 140 21 }
 }
 SRU = {
 	color = rgb { 15 140 21 }
 	color_ui = rgb { 15 140 21 }
 }
 SOV = {
-	color = rgb { 184  18  49 }
-	color_ui = rgb { 184  18  49 }
+	color = rgb { 135  7  7 }
+	color_ui = rgb { 135  7  7 }
 }
 LAN = {
 	color = rgb { 137 144 153 } 
@@ -229,4 +229,9 @@ SWE = {
 ARH = {
 	color = rgb { 44  93  107 }
 	color_ui = rgb { 44  93  107 }
+}
+
+TUK = {
+	color = rgb { 135  7  7 }
+	color_ui = rgb { 135  7  7 }
 }

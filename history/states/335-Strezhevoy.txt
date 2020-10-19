@@ -1,18 +1,21 @@
+
 state={
 	id=335
 	name="STATE_335"
-	provinces={
-		75 272 3167 8192 
-	}
+
 	history={
 		owner = PAG
 		buildings = {
 			infrastructure = 1
 
 		}
+
 	}
-		add_core_of = PAG
-	state_category = rural
+
+	provinces={
+		272 1324 1795 2710 3167 4569 6070 
+	}
 	manpower=0
 	buildings_max_level_factor=1.000
+	state_category=rural
 }
