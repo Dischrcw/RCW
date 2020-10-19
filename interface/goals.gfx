@@ -1,0 +1,12 @@
+spriteTypes = {
+	
+	SpriteType = {
+	name = "GFX_focus_fin_heimosodat"
+	texturefile = "gfx/interface/goals/focus_fin_heimosodat.dds"
+	}
+
+	SpriteType = {
+	name = "GFX_focus_fin_karelian_cooperation"
+	texturefile = "gfx/interface/goals/focus_fin_karelian_cooperation.dds"
+	}
+}

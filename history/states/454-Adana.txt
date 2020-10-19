@@ -1,8 +1,15 @@
+
 state={
 	id=454
 	name="STATE_454"
+
+	history={
+		owner = FRA
+
+	}
+
 	provinces={
-		3191 6046 6784 
+		307 3191 3212 6046 6612 6784 11075 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

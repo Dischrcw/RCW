@@ -1,0 +1,13 @@
+state={
+	id=541
+	name="STATE_541"
+	provinces={
+		4551 8706 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history={
+		owner = SYR
+		add_core_of = SYR
+	}
+}

@@ -1,0 +1,14 @@
+
+state={
+	id=542
+	name="STATE_542"
+	provinces={
+		1562 1820 2203 2414 2954 3426 3514 3985 5202 5488 5792 5978 6629 8615 8623 8636 8667 8671 11071 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history={
+		owner = SYR
+		add_core_of = SYR
+	}
+}

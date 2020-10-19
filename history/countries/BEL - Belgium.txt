@@ -79,9 +79,9 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Józef Piłsudski"
+	name = "Léon Delacroix"
 	desc = ""
-	picture = "gfx/leaders/POL/portrait_POL_jozef_pilsudski.dds"
+	picture = "gfx/leaders/BEL/portrait_BEL_leon_delacroix.dds"
 	expire = "1953.3.1"
 	ideology = conservatism
 	traits = {

@@ -1,0 +1,15 @@
+state={
+	id=545
+	name="STATE_545"
+	provinces={
+		3310 3594 
+	}
+
+	history={
+		owner = BEL
+		add_core_of = GER
+	}
+
+	manpower=0
+	buildings_max_level_factor=1.000
+}

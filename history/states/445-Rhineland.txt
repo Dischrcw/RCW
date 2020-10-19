@@ -1,13 +1,18 @@
+
 state={
 	id=445
 	name="STATE_445"
+
+	history={
+		owner = ARH
+		add_core_of = GER
+		add_core_of = ARH
+
+	}
+
 	provinces={
-		2858 3310 3594 4460 5567 6367 
+		4460 6367 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
-	history = {
-		owner = GER
-		add_core_of = GER
-	}
 }

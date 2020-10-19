@@ -79,9 +79,9 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Józef Piłsudski"
+	name = "Charles Ruijs de Beerenbrouck"
 	desc = ""
-	picture = "gfx/leaders/POL/portrait_POL_jozef_pilsudski.dds"
+	picture = "gfx/leaders/NET/portrait_NET_charles_beerenbrouck.dds"
 	expire = "1953.3.1"
 	ideology = conservatism
 	traits = {

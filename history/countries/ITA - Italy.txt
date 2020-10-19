@@ -64,26 +64,26 @@ set_popularities = {
 	autocracy = 12
 	vanguard_socialism = 8
 	anarchism = 3
-	nationalism = 14
+	nationalism = 29
 	democratic_socialism = 5
-	liberalism = 16
-	conservatism = 42
+	liberalism = 31
+	conservatism = 12
 	social_democracy = 0
 }
 
 set_politics = {
-	ruling_party = conservatism
+	ruling_party = liberalism
 	last_election = "1932.5.21"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Józef Piłsudski"
+	name = "Vittorio Emanuele Orlando"
 	desc = ""
-	picture = "gfx/leaders/POL/portrait_POL_jozef_pilsudski.dds"
+	picture = "gfx/leaders/ITA/portrait_ITA_vittorio_emanuele_orlando.dds"
 	expire = "1953.3.1"
-	ideology = conservatism
+	ideology = liberalism
 	traits = {
 		
 	}

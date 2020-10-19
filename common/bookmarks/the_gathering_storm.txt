@@ -4,13 +4,13 @@ bookmarks = {
 		desc = "GATHERING_STORM_DESC"
 		date = 1919.3.1.12
 		picture = "GFX_select_date_1936"
-		default_country = "EST"
+		default_country = "SOV"
 		default = yes
 		
 		
-		"EST"={
+		"SOV"={
 			history = "EST_GATHERING_STORM_DESC"
-			ideology = democratic
+			ideology = vanguard_socialism
 			ideas = {
 				
 				
