@@ -34,13 +34,11 @@ defined_text = {
 		}
 		localization_key = ENG_PRIME_MINISTER_TITLE
 	}
-	text = {
-		localization_key = DEFAULT_FIRST_TITLE
-	}
 
 	text = {
 		trigger = {
 			original_tag = FRA
+			has_government = social_democracy
 		}
 		localization_key = ENG_PRIME_MINISTER_TITLE
 	}
@@ -48,6 +46,7 @@ defined_text = {
 	text = {
 		trigger = {
 			tag = BEL
+			has_government = conservatism
 		}
 		localization_key = ENG_PRIME_MINISTER_TITLE
 	}
@@ -55,6 +54,7 @@ defined_text = {
 	text = {
 		trigger = {
 			tag = SPA
+			has_government = liberalism
 		}
 		localization_key = ENG_PRIME_MINISTER_TITLE
 	}
@@ -62,6 +62,30 @@ defined_text = {
 	text = {
 		trigger = {
 			tag = POR
+		}
+		localization_key = "ENG_PRIME_MINISTER_TITLE"
+	}
+
+	text = {
+		trigger = {
+			tag = LUX
+			has_government = autocracy
+		}
+		localization_key = "LUX_GRAND_DUCHESS"
+	}
+
+	text = {
+		trigger = {
+			tag = ARH
+			has_government = autocracy
+		}
+		localization_key = "ARH_MAJOR_GENERAL"
+	}
+
+	text = {
+		trigger = {
+			tag = NET
+			has_government = liberalism
 		}
 		localization_key = "ENG_PRIME_MINISTER_TITLE"
 	}
@@ -126,6 +150,27 @@ text = {
 		localization_key = "FRA_PRESIDENT_TITLE"
 	}
 
+	text = {
+		trigger = {
+			tag = LUX
+		}
+		localization_key = ENG_PRIME_MINISTER_TITLE
+	}
+
+	text = {
+		trigger = {
+			tag = ARH
+		}
+		localization_key = ARH_GENERAL_ARMIES
+	}
+
+	text = {
+		trigger = {
+			tag = NET
+		}
+		localization_key = NET_QUEEN_TITLE
+	}
+
 }
 
 defined_text = {
@@ -180,6 +225,27 @@ defined_text = {
 			original_tag = POR
 		}
 		localization_key = "POR_JOAO_CANTO"
+	}
+
+	text = {
+		trigger = {
+			original_tag = LUX
+		}
+		localization_key = "LUX_EMILE_REUTER"
+	}
+
+	text = {
+		trigger = {
+			original_tag = ARH
+		}
+		localization_key = "ARH_JOHN_PERSHING"
+	}
+
+	text = {
+		trigger = {
+			original_tag = NET
+		}
+		localization_key = "NET_WILHELMINA"
 	}
 
 	text = {
@@ -241,6 +307,26 @@ defined_text = {
         localization_key = "GFX_POR_JOAO_CANTO"
 	}
 
+	text = {
+        trigger = {
+			tag = LUX
+        }
+        localization_key = "GFX_LUX_EMILE_REUTER"
+	}
+
+	text = {
+        trigger = {
+			tag = ARH
+        }
+        localization_key = "GFX_ARH_JOHN_PERSHING"
+	}
+
+	text = {
+        trigger = {
+			tag = NET
+        }
+        localization_key = "GFX_NET_WILHELMINA"
+	}
 
 	text = {
 		localization_key = "GFX_portrait_bg_blank"

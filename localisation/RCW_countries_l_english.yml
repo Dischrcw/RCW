@@ -339,3 +339,7 @@
  GER_social_democracy:0 "Weimar Republic"
  GER_social_democracy_DEF:0 "The Weimar Republic"
  GER_social_democracy_ADJ:0 "German"
+
+ ARH:0 "American Forces in Germany"
+ ARH_DEF:0 "The American Rhineland"
+ ARH_ADJ:0 "American"

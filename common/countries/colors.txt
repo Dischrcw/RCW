@@ -226,3 +226,7 @@ SWE = {
 	color = rgb { 36  132  247 }
 	color_ui = rgb { 36  132  247 }
 }
+ARH = {
+	color = rgb { 44  93  107 }
+	color_ui = rgb { 44  93  107 }
+}

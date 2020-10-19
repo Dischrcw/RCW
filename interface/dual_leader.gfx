@@ -73,4 +73,19 @@ spriteTypes = {
 		name = "GFX_POR_JOAO_CANTO"
 		texturefile = "gfx/dual_leaders/POR/portrait_POR_joao_canto.dds"
 	}
+
+	spriteType = {
+		name = "GFX_LUX_EMILE_REUTER"
+		texturefile = "gfx/dual_leaders/LUX/portrait_LUX_emile_reuter.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ARH_JOHN_PERSHING"
+		texturefile = "gfx/dual_leaders/ARH/portrait_ARH_john_j_pershing.dds"
+	}
+
+	spriteType = {
+		name = "GFX_NET_WILHELMINA"
+		texturefile = "gfx/dual_leaders/NET/portrait_NET_wilhelmina.dds"
+	}
 }
