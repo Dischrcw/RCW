@@ -235,3 +235,8 @@ TUK = {
 	color = rgb { 135  7  7 }
 	color_ui = rgb { 135  7  7 }
 }
+
+UHT = {
+	color = rgb { 70  147  15 }
+	color_ui = rgb { 70  147  15 }
+}

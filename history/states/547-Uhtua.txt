@@ -4,6 +4,12 @@ state={
 	provinces={
 		4585 7239 11051 11052 11053 11055 
 	}
+
+	history={
+		owner = UHT
+		add_core_of = UHT
+	}
+
 	manpower=0
 	buildings_max_level_factor=1.000
 }

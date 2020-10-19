@@ -343,3 +343,10 @@
  ARH:0 "American Forces in Germany"
  ARH_DEF:0 "The American Rhineland"
  ARH_ADJ:0 "American"
+
+ UHT:0 "Uhtua"
+ UHT_DEF:0 "Uhtua"
+ UHT_ADJ:0 "Uhtuan"
+ UHT_conservatism:0 "Republic of Uhtua"
+ UHT_conservatism_DEF:0 "The Republic of Uhtua"
+ UHT_conservatism_ADJ:0 "Uhtuan"
