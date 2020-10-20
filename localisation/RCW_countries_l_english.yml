@@ -64,12 +64,14 @@
  LBY:0 "Lithuania-Byelorussia"
  LBY_DEF:0 "The Lithuania-Byelorussia Republic"
  LBY_ADJ:0 "Lithuanian-Byelorussian"
- BAI_autocracy:0 "Transbaikal Cossack Host"
- BAI_autocracy_DEF:0 "The Transbaikal Cossack Host"
- BAI_autocracy_ADJ:0 "Transbaikal"
+ 
  BAI:0 "Buryatia"
  BAI_DEF:0 "The Buryatia Republic"
  BAI_ADJ:0 "Buryatia"
+ BAI_nationalism:0 "Transbaikal Cossack Host"
+ BAI_nationalism_DEF:0 "The Transbaikal Cossack Host"
+ BAI_nationalism_ADJ:0 "Transbaikal"
+ 
  AMU_democratic_socialism:0 "Amurskaya Labor Socialist Republic"
  AMU_democratic_socialism_DEF:0 "The Amurskaya Labor Socialist Republic"
  AMU_democratic_socialism_ADJ:0 "Amurskaya"
@@ -209,6 +211,9 @@
  KUB_autocracy:0 "Kuban People's Republic"
  KUB_autocracy_DEF:0 "The Kuban People's Republic"
  KUB_autocracy_ADJ:0 "Kuban"
+ KUB_ind:0 "Kuban People's Republic"
+ KUB_ind_DEF:0 "The Kuban People's Republic"
+ KUB_ind_ADJ:0 "Kuban"
 
  DON:0 "Don Cossacks"
  DON_DEF:0 "The Don Cossacks"
@@ -216,6 +221,10 @@
  DON_conservatism:0 "Don Republic"
  DON_conservatism_DEF:0 "The Don Republic"
  DON_conservatism_ADJ:0 "Don"
+ DON_IND:0 "Don Republic"
+ DON_IND_DEF:0 "The Don Republic"
+ DON_IND_ADJ:0 "Don"
+
 
  SRU:0 "South Russia"
  SRU_DEF:0 "Southern Russia"

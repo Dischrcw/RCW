@@ -127,17 +127,20 @@ FRA = {
 	color_ui = rgb { 57  113  228 }
 }
 KUB = {
-	color = rgb { 156  11  83 }
-	color_ui = rgb { 156  11  83 }
+	color = rgb { 15  140  21 }
+	color_ui = rgb { 15  140  21 }
 }
+
 DON = {
-	color = rgb { 173  146  0 }
-	color_ui = rgb { 173  146  0 }
-}
-PAG = {
 	color = rgb { 15 140 21 }
 	color_ui = rgb { 15 140 21 }
 }
+
+PAG = {
+	color = rgb { 23 100 26 }
+	color_ui = rgb { 23 100 26 }
+}
+
 SRU = {
 	color = rgb { 15 140 21 }
 	color_ui = rgb { 15 140 21 }
@@ -239,4 +242,9 @@ TUK = {
 UHT = {
 	color = rgb { 70  147  15 }
 	color_ui = rgb { 70  147  15 }
+}
+
+BAI = {
+	color = rgb { 15 75 150 }
+	color_ui = rgb { 15 75 150 }
 }

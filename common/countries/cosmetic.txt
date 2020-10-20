@@ -1,0 +1,9 @@
+DON_IND = {
+    color = rgb { 173  146  0 }
+    color_ui = rgb { 173  146  0 }
+}
+
+KUB_IND = {
+    color = rgb { 156  11  83 }
+    color_ui = rgb { 156  11  83 }
+}
