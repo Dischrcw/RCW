@@ -155,6 +155,7 @@ LAN = {
 }
 GER = {
 	color = rgb { 64  45  27 }
+	color_ui = rgb { 64  45  27 }
 }
 LUX = {
 	color = rgb { 65  175  179 }
