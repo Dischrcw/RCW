@@ -51,8 +51,8 @@ LBY = {
 }
 
 POL = {
-	color = rgb { 197 92 106 }
-	color_ui = rgb { 255 120 138 }
+	color = rgb { 210  130  145 }
+	color_ui = rgb { 210  130  145 }
 }
 KHI  = {
 	color = rgb { 19 86 83  }
@@ -154,8 +154,7 @@ LAN = {
 	color_ui = rgb { 137 144 153 } 
 }
 GER = {
-	color = rgb { 106  119  89 }
-	color_ui = rgb { 106  119  89 }
+	color = rgb { 64  45  27 }
 }
 LUX = {
 	color = rgb { 65  175  179 }
@@ -245,6 +244,6 @@ UHT = {
 }
 
 BAI = {
-	color = rgb { 15 75 150 }
-	color_ui = rgb { 15 75 150 }
+	color = rgb { 46  112  49 }
+	color_ui = rgb { 46  112  49 }
 }
