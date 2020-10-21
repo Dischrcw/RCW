@@ -21,6 +21,18 @@
  anarchism:0 "Anarchism"
  anarchism_desc:0 "Collective Union"
  #####Parties#####
+ LAT_conservatism_party:0 "LZS(CW)"
+ LAT_conservatism_party_long:0 "Latvijas Zemnieku Savienība(Centre Wing)"
+ LAT_nationalism_party:0 "LZS(RW)"
+ LAT_nationalism_party_long:0 "Latvijas Zemnieku Savienība (Right Wing)"
+ LAT_liberalism_party:0 "LDP"
+ LAT_liberalism_party_long:0 "Latvijas Demokrātiskā Partija"
+ LAT_social_democracy_party:0 "LSDSP"
+ LAT_social_democracy_party_long:0 "Latvijas Sociāl-Demokrātiskā Strādnieku Partija"
+ LAT_democratic_socialism_party:0 "LRSP"
+ LAT_democratic_socialism_party_long:0 "Latvijas Revolucionārā Sociālistiskā Partija"
+ LAT_autocracy_party:0 "Militarists"
+ 
  EST_autocracy_party:0 "Isamaaliit"
  EST_liberalism_party:0 "RKE"
  EST_conservatism_party:0 "RKE"
