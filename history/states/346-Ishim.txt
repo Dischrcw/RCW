@@ -4,7 +4,8 @@ state={
 	name="STATE_346"
 
 	history={
-		owner = PAG
+		owner = URL
+		add_core_of = URL
 		buildings = {
 			infrastructure = 1
 

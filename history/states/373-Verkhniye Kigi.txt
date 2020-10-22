@@ -5,7 +5,8 @@ state={
 		425 3261 3702 3957 4873 5415 6454 8122 8128 8162 8175 
 	}
 	history={
-		owner = PAG
+		owner = URL
+		add_core_of = URL
 		buildings = {
 			infrastructure = 1
 

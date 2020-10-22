@@ -1,0 +1,15 @@
+state={
+	id=550
+	name="STATE_550"
+	provinces={
+		1945 2645 2826 4234 8505 8588 
+	}
+
+	history={
+		owner = ENG
+		add_core_of = LIB
+	}
+
+	manpower=0
+	buildings_max_level_factor=1.000
+}

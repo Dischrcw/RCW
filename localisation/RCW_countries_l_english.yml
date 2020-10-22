@@ -71,7 +71,7 @@
  BAI_nationalism:0 "Transbaikal Cossack Host"
  BAI_nationalism_DEF:0 "The Transbaikal Cossack Host"
  BAI_nationalism_ADJ:0 "Transbaikal"
- 
+
  AMU_democratic_socialism:0 "Amurskaya Labor Socialist Republic"
  AMU_democratic_socialism_DEF:0 "The Amurskaya Labor Socialist Republic"
  AMU_democratic_socialism_ADJ:0 "Amurskaya"
@@ -359,3 +359,17 @@
  UHT_conservatism:0 "Republic of Uhtua"
  UHT_conservatism_DEF:0 "The Republic of Uhtua"
  UHT_conservatism_ADJ:0 "Uhtuan"
+
+ LIB:0 "Libya"
+ LIB_DEF:0 "Libya"
+ LIB_ADJ:0 "Libyan"
+ LIB_nationalism:0 "Senussi Order"
+ LIB_nationalism_DEF:0 "The Senussi Order"
+ LIB_nationalism_ADJ:0 "Senussi"
+
+ URL:0 "Urals"
+ URL_DEF:0 "The Urals"
+ URL_ADJ:0 "Uralic"
+ URL_conservatism:0 "Ural Krai"
+ URL_conservatism_DEF:0 "The Ural Krai"
+ URL_conservatism_ADJ:0 "Uralic"

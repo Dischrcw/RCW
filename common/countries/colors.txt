@@ -123,8 +123,8 @@ LIT = {
 	color_ui = rgb { 253 186 11 }
 }
 FRA = {
-	color = rgb { 57  113  228 }
-	color_ui = rgb { 57  113  228 }
+	color = rgb { 35  27  117 }
+	color_ui = rgb { 35  27  117 }
 }
 KUB = {
 	color = rgb { 15  140  21 }
@@ -154,8 +154,8 @@ LAN = {
 	color_ui = rgb { 137 144 153 } 
 }
 GER = {
-	color = rgb { 64  45  27 }
-	color_ui = rgb { 64  45  27 }
+	color = rgb { 107  82  54 }
+	color_ui = rgb { 107  82  54 }
 }
 LUX = {
 	color = rgb { 65  175  179 }
@@ -245,6 +245,15 @@ UHT = {
 }
 
 BAI = {
-	color = rgb { 46  112  49 }
-	color_ui = rgb { 46  112  49 }
+	color = rgb { 78  112  70 }
+	color_ui = rgb { 78  112  70 }
 }
+
+LIB = {
+	color = rgb { 68 62 56 }
+	color_ui = rgb { 68 62 56 }
+}
+
+URL = {
+	color = rgb { 23 100 26 }
+	color_ui = rgb { 23 100 26 }

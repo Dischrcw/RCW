@@ -1,0 +1,15 @@
+state={
+	id=552
+	name="STATE_552"
+	provinces={
+		180 268 578 2270 3049 3723 8044 
+	}
+
+	history={
+		owner = FRA
+		add_core_of = LIB
+	}
+
+	manpower=0
+	buildings_max_level_factor=1.000
+}

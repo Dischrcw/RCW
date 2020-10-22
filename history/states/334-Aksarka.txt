@@ -6,7 +6,8 @@ state={
 		264 919 1357 1812 1999 2058 3078 3341 3978 4260 5474 5656 6048 6788 7523 7568 7592 7660 7736 7820 
 	}
 	history={
-		owner = PAG
+		owner = URL
+		add_core_of = URL
 		buildings = {
 			infrastructure = 1
 

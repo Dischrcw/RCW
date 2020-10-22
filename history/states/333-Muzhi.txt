@@ -4,6 +4,12 @@ state={
 	provinces={
 		750 987 1716 3202 3535 7767 7790 
 	}
+
+	history={
+		owner = URL
+		add_core_of = URL
+	}
+
 	manpower=0
 	buildings_max_level_factor=1.000
 }

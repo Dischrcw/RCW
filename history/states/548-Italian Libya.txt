@@ -4,6 +4,12 @@ state={
 	provinces={
 		618 622 1232 4186 8092 
 	}
+
+	history={
+		owner = ITA
+		add_core_of = LIB
+	}
+
 	manpower=0
 	buildings_max_level_factor=1.000
 }
