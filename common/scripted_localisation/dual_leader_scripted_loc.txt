@@ -2,6 +2,96 @@
 
 defined_text = {
 	name = GetFirstTitle
+	
+text = {
+		trigger = {
+			tag = DON
+			has_government = conservatism
+		}
+		localization_key = DON_TROOPS_ATAMAN
+		
+	}
+
+text = {
+		trigger = {
+			tag = UKR
+			has_government = nationalism
+		}
+		localization_key = UKR_CHAIRMAN
+		
+	}
+
+text = {
+		trigger = {
+			tag = MAK
+			has_government = anarchism
+		}
+		localization_key = LAN_SUPREME_COMMANDER
+		
+	}
+
+text = {
+		trigger = {
+			tag = SVU
+			has_government = vanguard_socialism
+		}
+		localization_key = LSR_CHAIRMAN
+		
+	}
+
+text = {
+		trigger = {
+			tag = LBY
+			has_government = vanguard_socialism
+		}
+		localization_key = LSR_CHAIRMAN
+		
+	}
+	
+text = {
+		trigger = {
+			tag = LAN
+			has_government = autocracy
+		}
+		localization_key = LAN_SUPREME_COMMANDER
+		
+	}
+
+text = {
+		trigger = {
+			tag = LSR
+			has_government = vanguard_socialism
+		}
+		localization_key = LSR_CHAIRMAN
+		
+	}
+
+text = {
+		trigger = {
+			tag = EST
+			has_government = nationalism
+		}
+		localization_key = EST_HEAD_MINISTER_TITLE
+		
+	}
+	
+text = {
+		trigger = {
+			tag = LIT
+			has_government = nationalism
+		}
+		localization_key = LIT_MINISTER_CHAIRMAN_TITLE
+		
+	}
+	
+	text = {
+		trigger = {
+			tag = LAT
+			has_government = nationalism
+		}
+		localization_key = LAT_PRESIDENT_OF_MINISTERS_TITLE
+		
+	}
 
 	text = {
 		trigger = {
@@ -34,11 +124,13 @@ defined_text = {
 		}
 		localization_key = ENG_PRIME_MINISTER_TITLE
 	}
+	text = {
+		localization_key = DEFAULT_FIRST_TITLE
+	}
 
 	text = {
 		trigger = {
 			original_tag = FRA
-			has_government = social_democracy
 		}
 		localization_key = ENG_PRIME_MINISTER_TITLE
 	}
@@ -46,48 +138,8 @@ defined_text = {
 	text = {
 		trigger = {
 			tag = BEL
-			has_government = conservatism
 		}
 		localization_key = ENG_PRIME_MINISTER_TITLE
-	}
-
-	text = {
-		trigger = {
-			tag = SPA
-			has_government = liberalism
-		}
-		localization_key = ENG_PRIME_MINISTER_TITLE
-	}
-
-	text = {
-		trigger = {
-			tag = POR
-		}
-		localization_key = "ENG_PRIME_MINISTER_TITLE"
-	}
-
-	text = {
-		trigger = {
-			tag = LUX
-			has_government = autocracy
-		}
-		localization_key = "LUX_GRAND_DUCHESS"
-	}
-
-	text = {
-		trigger = {
-			tag = ARH
-			has_government = autocracy
-		}
-		localization_key = "ARH_MAJOR_GENERAL"
-	}
-
-	text = {
-		trigger = {
-			tag = NET
-			has_government = liberalism
-		}
-		localization_key = "ENG_PRIME_MINISTER_TITLE"
 	}
 
 	text = {
@@ -99,6 +151,106 @@ defined_text = {
 defined_text = {
 	name = GetSecondTitle
 
+
+    text = {
+		trigger = {
+			tag = DON
+			has_government = conservatism
+		}
+		localization_key = DON_CHIEF_HQ
+		
+	}
+
+	text = {
+		trigger = {
+			tag = UKR
+			has_government = nationalism
+		}
+		localization_key = UKR_CHAIRMAN2
+		
+	}
+
+    text = {
+		trigger = {
+			tag = MAK
+			has_government = anarchism
+		}
+		localization_key = MAK_CAVALRY_LEADER
+		
+	}
+
+    text = {
+		trigger = {
+			tag = SVU
+			has_government = vanguard_socialism
+		}
+		localization_key = LBY_FIRST_SECRETARY
+		
+	}
+
+    text = {
+		trigger = {
+			tag = LBY
+			has_government = vanguard_socialism
+		}
+		localization_key = LBY_FIRST_SECRETARY
+		
+	}
+	
+    text = {
+		trigger = {
+			tag = LAN
+			has_government = autocracy
+		}
+		localization_key = LAN_FREIKORPS_COMMANDER
+		
+	}
+	
+    text = {
+		trigger = {
+			tag = EST
+			has_government = nationalism
+		}
+		localization_key = EST_COMMANDER_IN_CHIEF
+		
+	}
+	
+	text = {
+		trigger = {
+			tag = LSR
+			has_government = vanguard_socialism
+		}
+		localization_key = LSR_COMRADE
+		
+	}
+
+	text = {
+		trigger = {
+			tag = LIT
+			has_government = social_democracy
+		}
+		localization_key = LIT_PRESIDENT
+		
+	}
+	
+	text = {
+		trigger = {
+			tag = LIT
+			has_government = nationalism
+		}
+		localization_key = LIT_PRESIDENT
+		
+	}
+
+	text = {
+		trigger = {
+			tag = LAT
+			has_government = nationalism
+		}
+		localization_key = LAT_CHAIRMAN_NATIONAL_COUNCIL_TITLE
+		
+	}
+	
 	text = {
 		trigger = {
 			tag = ROM
@@ -107,7 +259,7 @@ defined_text = {
 		localization_key = ROM_MONARCH_TITLE
 	}
 
-text = {
+	text = {
 		trigger = {
 			tag = SOV
 			has_government = vanguard_socialism
@@ -136,45 +288,74 @@ text = {
 		localization_key = BEL_KING_TITLE
 	}
 
-	text = {
-		trigger = {
-			tag = SPA
-		}
-		localization_key = SPA_KING_TITLE
-	}
-
-	text = {
-		trigger = {
-			tag = POR
-		}
-		localization_key = "FRA_PRESIDENT_TITLE"
-	}
-
-	text = {
-		trigger = {
-			tag = LUX
-		}
-		localization_key = ENG_PRIME_MINISTER_TITLE
-	}
-
-	text = {
-		trigger = {
-			tag = ARH
-		}
-		localization_key = ARH_GENERAL_ARMIES
-	}
-
-	text = {
-		trigger = {
-			tag = NET
-		}
-		localization_key = NET_QUEEN_TITLE
-	}
-
 }
 
 defined_text = {
 	name = GetDualLeaderName
+	
+	text = {
+		trigger = {
+			tag = DON
+			has_government = conservatism
+		}
+		localization_key = DON_ANATOLIY_KELCHEVSKY
+	}
+
+	text = {
+		trigger = {
+			tag = UKR
+			has_government = nationalism
+		}
+		localization_key = UKR_OSTAPENKO
+	}
+
+	text = {
+		trigger = {
+			tag = MAK
+			has_government = anarchism
+		}
+		localization_key = MAK_FEDIR_SHCHUS
+	}
+
+	text = {
+		trigger = {
+			tag = SVU
+			has_government = vanguard_socialism
+		}
+		localization_key = SVU_KVIRING
+	}
+
+	text = {
+		trigger = {
+			tag = LBY
+			has_government = vanguard_socialism
+		}
+		localization_key = LBY_VILHELM_KNORIN
+	}
+	
+	text = {
+		trigger = {
+			tag = LAN
+			has_government = autocracy
+		}
+		localization_key = LAN_BISCHOFF
+	}
+	
+	text = {
+		trigger = {
+			tag = EST
+			has_government = nationalism
+		}
+		localization_key = EST_JOHAN_LAIDONER
+	}
+	
+	text = {
+		trigger = {
+			tag = LSR
+			has_government = vanguard_socialism
+		}
+		localization_key = LSR_YURI_DANISHEVSKI
+	}
 
 	text = {
 		trigger = {
@@ -184,6 +365,30 @@ defined_text = {
 		localization_key = ROM_CAROL_II
 	}
 
+	text = {
+		trigger = {
+			tag = LIT
+			has_government = nationalism
+		}
+		localization_key = LIT_ANTONAS_SMETONA
+	}
+
+	text = {
+		trigger = {
+			tag = LIT
+			has_government = social_democracy
+		}
+		localization_key = LIT_ANTONAS_SMETONA
+	}
+
+	text = {
+		trigger = {
+			tag = LAT
+			has_government = nationalism
+		}
+		localization_key = LAT_JANIS_CAKSTE
+	}
+	
 	text = {
 		trigger = {
 			tag = SOV
@@ -214,48 +419,102 @@ defined_text = {
 	}
 
 	text = {
-		trigger = {
-			original_tag = SPA
-		}
-		localization_key = SPA_ALFONSO_XIII
-	}
-
-	text = {
-		trigger = {
-			original_tag = POR
-		}
-		localization_key = "POR_JOAO_CANTO"
-	}
-
-	text = {
-		trigger = {
-			original_tag = LUX
-		}
-		localization_key = "LUX_EMILE_REUTER"
-	}
-
-	text = {
-		trigger = {
-			original_tag = ARH
-		}
-		localization_key = "ARH_JOHN_PERSHING"
-	}
-
-	text = {
-		trigger = {
-			original_tag = NET
-		}
-		localization_key = "NET_WILHELMINA"
-	}
-
-	text = {
 		localization_key = DEFAULT_TITLE
 	}
 }
 
 defined_text = {
     name = GetDualLeaderPortrait
+	
+	text = {
+		trigger = {
+			tag = DON
+			has_government = conservatism
+		}
+		localization_key = GFX_ANATOLIY_KELCHEVSKY
+	}
 
+	text = {
+		trigger = {
+			tag = UKR
+			has_government = nationalism
+		}
+		localization_key = GFX_OSTOPENKO
+	}
+
+	text = {
+		trigger = {
+			tag = MAK
+			has_government = anarchism
+		}
+		localization_key = GFX_SHCHUS
+	}
+
+	text = {
+		trigger = {
+			tag = SVU
+			has_government = vanguard_socialism
+		}
+		localization_key = GFX_KVIRING
+	}
+
+	text = {
+		trigger = {
+			tag = LBY
+			has_government = vanguard_socialism
+		}
+		localization_key = GFX_VILHELM_KNORIN
+	}
+
+	text = {
+		trigger = {
+			tag = LAN
+			has_government = autocracy
+		}
+		localization_key = GFX_LAN_BISHOFF
+	}
+
+	text = {
+		trigger = {
+			tag = EST
+			has_government = nationalism
+		}
+		localization_key = GFX_EST_JOHAN_LAIDONER
+	}
+
+	text = {
+		trigger = {
+			tag = LSR
+			has_government = vanguard_socialism
+		}
+		localization_key = GFX_LSR_YURI_DAN
+	}
+
+	text = {
+		trigger = {
+			tag = LIT
+			has_government = nationalism
+		}
+		localization_key = GFX_LIT_ANTONAS_SMETONA
+	}
+	
+	text = {
+		trigger = {
+			tag = LIT
+			has_government = social_democracy
+		}
+		localization_key = GFX_LIT_ANTONAS_SMETONA
+	}
+
+
+	text = {
+		trigger = {
+			tag = LAT
+			has_government = nationalism
+		}
+		localization_key = GFX_LAT_JANIS_CAKSTE
+	}
+	
 	text = {
 		trigger = {
 			tag = ROM
@@ -291,41 +550,6 @@ defined_text = {
 			tag = BEL
         }
         localization_key = "GFX_BEL_ALBERT_I"
-	}
-
-	text = {
-        trigger = {
-			tag = SPA
-        }
-        localization_key = "GFX_SPA_ALFONSO_XIII"
-	}
-
-	text = {
-        trigger = {
-			tag = POR
-        }
-        localization_key = "GFX_POR_JOAO_CANTO"
-	}
-
-	text = {
-        trigger = {
-			tag = LUX
-        }
-        localization_key = "GFX_LUX_EMILE_REUTER"
-	}
-
-	text = {
-        trigger = {
-			tag = ARH
-        }
-        localization_key = "GFX_ARH_JOHN_PERSHING"
-	}
-
-	text = {
-        trigger = {
-			tag = NET
-        }
-        localization_key = "GFX_NET_WILHELMINA"
 	}
 
 	text = {
