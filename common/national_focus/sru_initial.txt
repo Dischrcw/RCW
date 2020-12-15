@@ -1,0 +1,268 @@
+focus_tree = {
+	id = sru_initial
+	continuous_focus_position = { x = 0 y = 1000 } 
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = SRU
+		}
+	}
+
+	focus = {
+		id = SRU_bastion
+		icon = GFX_goal_generic_major_war
+		x = 5
+		y = 0
+		#relative_position_id = AST_support_the_centre_party
+		cost = 3
+
+		#prerequisite = { focus = AST_our_own_empire }
+
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+		completion_reward = {
+			add_stability = .05
+			add_war_support = .05
+		}
+	}
+
+	focus = {
+		id = SRU_anticom
+		icon = GFX_goal_generic_major_war
+		x = -2
+		y = 1
+		relative_position_id = SRU_bastion
+		cost = 2
+
+		prerequisite = { focus = SRU_bastion }
+		mutually_exclusive = { focus = SRU_cossacks }
+
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+		completion_reward = {
+			add_stability = .05
+		}
+	}
+
+	focus = {
+		id = SRU_cossacks
+		icon = GFX_goal_generic_major_war
+		x = 2
+		y = 1
+		relative_position_id = SRU_bastion
+		cost = 2
+
+		prerequisite = { focus = SRU_bastion }
+		mutually_exclusive = { focus = SRU_anticom }
+
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+		completion_reward = {
+			add_war_support = .05
+		}
+	}
+
+	focus = {
+		id = SRU_okhrana
+		icon = GFX_goal_generic_major_war
+		x = 1
+		y = 1
+		relative_position_id = SRU_anticom
+		cost = 3
+
+		prerequisite = { focus = SRU_anticom }
+
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+		completion_reward = {
+			add_stability = .07
+		}
+	}
+
+	focus = {
+		id = SRU_petilura
+		icon = GFX_goal_generic_major_war
+		x = -1
+		y = 1
+		relative_position_id = SRU_anticom
+		cost = 3
+
+		prerequisite = { focus = SRU_anticom }
+
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+		completion_reward = {
+			add_opinion_modifier = { target = UKR modifier = small_increase }
+			UKR = {
+				add_popularity = {
+					ideology = autocracy
+					popularity = 0.03
+				}
+			}
+		}
+	}
+
+	focus = {
+		id = SRU_concessions
+		icon = GFX_goal_generic_major_war
+		x = -1
+		y = 1
+		relative_position_id = SRU_cossacks
+		cost = 3
+
+		prerequisite = { focus = SRU_cossacks }
+
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+		completion_reward = {
+			add_opinion_modifier = { target = KUB modifier = medium_increase }
+			add_opinion_modifier = { target = DON modifier = medium_increase }
+		}
+	}
+
+	focus = {
+		id = SRU_mountain
+		icon = GFX_goal_generic_major_war
+		x = 1
+		y = 1
+		relative_position_id = SRU_cossacks
+		cost = 3
+
+		prerequisite = { focus = SRU_cossacks }
+
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+		completion_reward = {
+			add_opinion_modifier = { target = MNT modifier = large_increase }
+			MNT = {
+				set_cosmetic_tag = MNT_oblast
+				}
+			}
+		}
+
+	focus = {
+		id = SRU_offensive
+		icon = GFX_goal_generic_major_war
+		x = -3
+		y = 1
+		relative_position_id = SRU_mountain
+		cost = 3
+
+		prerequisite = { focus = SRU_mountain OR = SRU_okhrana }
+		prerequisite = { focus = SRU_concessions OR = SRU_petilura }
+
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+		}
+		
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+		completion_reward = {
+			country_event = {
+    			id = southrussia.1
+    			days = 0
+    			random_days = 0
+}
+		}
+	}

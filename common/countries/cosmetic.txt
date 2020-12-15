@@ -7,3 +7,8 @@ KUB_IND = {
     color = rgb { 156  11  83 }
     color_ui = rgb { 156  11  83 }
 }
+
+MNT_oblast = {
+    color = rgb { 15  140  21 }
+    color_ui = rgb { 15  140  21 }
+}

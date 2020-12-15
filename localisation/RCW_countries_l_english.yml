@@ -207,6 +207,9 @@
  MNT_nationalism:0 "Mountain Republic of the North Caucasus"
  MNT_nationalism_DEF:0 "The Mountain Republic of the North Caucasus"
  MNT_nationalism_ADJ:0 "Mountainous"
+ MNT_oblast:0 "Mountain Autonomous Oblast"
+ MNT_oblast_DEF:0 "The Mountain Oblast"
+ MNT_oblast_ADJ:0 "Mountain"
 
  KUB:0 "Kuban Cossacks"
  KUB_DEF:0 "The Kuban Cossacks"
