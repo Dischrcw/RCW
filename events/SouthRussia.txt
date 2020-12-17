@@ -1,0 +1,32 @@
+﻿###########################
+# South Russia Events
+###########################
+
+add_namespace = southrussia
+
+# Which War Plan
+country_event = {
+	id = southrussia.1
+	title = southrussia.1.t
+	desc = southrussia.1.d
+	picture = GFX_report_event_japanese_transport_soldiers
+	
+	is_triggered_only = yes
+	
+	option = { # Moscow Thrust
+		name = southrussia.1.a
+		ai_chance = { factor = 50 }
+		add_political_power = -25
+		hidden_effect = {
+			set_country_flag = denikin_plan
+		}
+	}
+	option = { # Linking with Kolchak
+		name = southrussia.1.b
+		ai_chance = { factor = 50 }
+		hidden_effect = {
+			set_country_flag = wrangel_plan
+		}
+	}
+}
+
