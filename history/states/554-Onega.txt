@@ -1,0 +1,17 @@
+
+state={
+	id=554
+	name="STATE_554"
+
+	history={
+		owner = PNR
+		add_core_of = PNR
+
+	}
+
+	provinces={
+		1288 3889 4527 5296 5439 6006 6092 7413 7464 7499 7544 11077 11079 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
