@@ -9,4 +9,5 @@ state={
 	history = { 
 		owner = FIN
 		add_core_of = FIN
+		}
 }

@@ -1,4 +1,4 @@
-name="Dual Leaders Mehcanic"
+name="A Song of Red and White"
 tags={
 	"Historical"
 	"Gameplay"

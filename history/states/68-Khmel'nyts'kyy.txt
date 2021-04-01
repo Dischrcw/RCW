@@ -10,4 +10,5 @@ state={
 	history = {
 		owner = UKR
 		add_core_of = UKR
+		}
 }

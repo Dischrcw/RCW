@@ -11,4 +11,5 @@ state={
 		add_core_of = EST
 		
 		victory_points = { 889 5 }	
+		}
 }

@@ -3,11 +3,6 @@
 oob = "BUK_1919"
 
 
-add_ideas = {
-	extensive_conscription
-	partial_mobilisation
-	
-}
 # Starting tech
 set_technology = {
 	infantry_weapons = 1
