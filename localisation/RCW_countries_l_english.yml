@@ -379,3 +379,10 @@
  URL_conservatism:0 "Ural Krai"
  URL_conservatism_DEF:0 "The Ural Krai"
  URL_conservatism_ADJ:0 "Uralic"
+
+ TRP:0 "Tripolitania"
+ TRP_DEF:0 "Tripolitania"
+ TRP_ADJ:0 "Tripolitanian"
+ TRP_conservatism:0 "Tripolitanian Republic"
+ TRP_conservative_DEF:0 "The Tripolitanian Republic"
+ TRP_conservatism_ADJ:0 "Tripolitanian"
