@@ -257,8 +257,9 @@ LIB = {
 URL = {
 	color = rgb { 23 100 26 }
 	color_ui = rgb { 23 100 26 }
+}
 
 TRP = {
-	color = rgb { 159  203  160}
-	color_ui = rgb { 159  203  160}
+	color = rgb { 159  203  160 }
+	color_ui = rgb { 159  203  160 }
 }
