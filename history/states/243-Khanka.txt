@@ -6,7 +6,6 @@ state={
 		3681 5181 8718 10934 10968 10969 10970 
 	}
 	history={
-		owner = JAP
 		buildings = {
 			infrastructure = 1
 

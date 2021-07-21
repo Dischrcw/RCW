@@ -5,10 +5,8 @@ state={
 		6323 8799 8814 
 	}
 	history={
-		owner = JAP
 		buildings = {
 			infrastructure = 1
-
 		}
 	}
 		add_core_of = ANH

@@ -263,3 +263,18 @@ TRP = {
 	color = rgb { 159  203  160 }
 	color_ui = rgb { 159  203  160 }
 }
+
+AFG = {
+	color = rgb { 74  100  113 }
+	color_ui = rgb { 74  100  113 }
+}
+
+SWI = {
+	color = rgb { 193  80  80 }
+	color_ui = rgb { 193  80  80 }
+}
+
+JAP = {
+	color = rgb { 204  181  186 }
+	color_ui = rgb { 204  181  186 }	
+}
