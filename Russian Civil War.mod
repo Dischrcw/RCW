@@ -1,4 +1,7 @@
 name="Russian Civil War"
+replace_path="common/characters"
+replace_path="common/generation"
+replace_path="history/general"
 replace_path="history/countries"
 replace_path="history/states"
 replace_path="history/units"
